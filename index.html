@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Assets/style/style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="icon" type="image/x-icon" href="./Assets/img/cart.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="//cdn.datatables.net/2.0.7/css/dataTables.dataTables.min.css">
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- DataTables JS -->
+    <script src="//cdn.datatables.net/2.0.7/js/dataTables.min.js"></script>
+    <title>Dashboard Superstore</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="logo">Super<span>store</span></a>
+            <div class="nav-links" id="nav-links">
+                <a href="#">Dasboard</a>
+                  <a href="#discount-sales">DiscountSales</a>
+                  <a href="#dis-profit">Discounts and Profit / Quantity</a>
+                  <a href="#profit-margin-chart">Profit Margin Chart</a>
+                  <a href="#profit-margin">Profit Margin Table</a>
+                  <a href="#CLV">Customer Lifetime Value</a>
+                  <button id="dark-mode-toggle2" class="dark-mode-toggle">
+                    <span class="material-symbols-sharp" id="dark-mode-icon2">dark_mode</span>
+                </button>
+            </div>
+            <div class="hamburger" id="hamburger">
+                &#9776;
+            </div>
+            <div id="sidebar-handle">&#9776;</div>
+            <button id="dark-mode-toggle" class="dark-mode-toggle">
+                <span class="material-symbols-sharp" id="dark-mode-icon">dark_mode</span>
+            </button>
+        </nav>
+    </header>
+    <div class="container">
+        <aside id="sidebar">
+            <div id="sidebar-content">
+                <ul class="menu-sidebar">
+                    <a href="#dashboard">
+                        <span class="material-symbols-sharp">grid_view</span>
+                        <h5>Dasboard</h5>
+                      </a>
+                      <a href="#discount-sales">
+                        <span class="material-symbols-sharp">show_chart</span>
+                        <h5>Discount Sales</h5>
+                      </a>
+                      <a href="#dis-profit">
+                        <span class="material-symbols-sharp">percent</span>
+                        <h5>Discounts and Profit / Quantity</h5>
+                      </a>
+                      <a href="#profit-margin-chart">
+                        <span class="material-symbols-sharp">monitoring</span>
+                        <h5>Profit Margin Chart</h5>
+                      </a>
+                      <a href="#profit-margin">
+                        <span class="material-symbols-sharp">attach_money</span>
+                        <h5>Profit Margin Table</h5>
+                      </a>
+                      <a href="#CLV">
+                        <span class="material-symbols-sharp">supervised_user_circle</span>
+                        <h5>Customer Lifetime Value</h5>
+                      </a>
+                    </div>
+                </ul>
+            </div>
+        </aside>
+        <main>
+            <section class="baris-0">
+                <h2 class="sub-judul">Background</h2>
+                <div class="box-0">
+                    <div class="left">
+                        <p>With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid. You can even take this a step further and try and build a Regression model to predict Sales or Profit. Go crazy with the dataset, but also make sure to provide some business insights to improve.</p>
+                    </div>
+                    <div class="right">
+                        <img src="Assets//img/superstore.png" alt="">
+                    </div>
+                </div>
+            </section>
+            <h2 class="sub-judul" id="dashboard">Dashboard</h2>
+            <section class="baris-1">
+                <div class="box-1">
+                    <h2>TOTAL SALES</h2>
+                    <p>1.935.936</p>
+               </div>
+                <div class="box-1">
+                    <h2>AVG Discount</h2>
+                    <p>14%</p>
+               </div>
+                <div class="box-1">
+                    <h2>AVG SALES</h2>
+                    <p>206</p>
+               </div>
+                <div class="box-1">
+                    <h2>MOST CUSTOMER</h2>
+                    <p>793</p>
+               </div>
+                <div class="box-1">
+                    <h2>Order Date</h2>
+                    <p>1.457 </p>
+               </div>
+            </section>
+            <section class="baris-1-1">
+                <div class="box-1-1">
+                    <h2>Total Customer/Segment</h2>
+                    <canvas id="totalCustomerSegmentChart"></canvas>
+               </div>
+                <div class="box-1-1">
+                    <h2>AVG Discount per Year</h2>
+                    <canvas id="avgDiscountPerYearChart" width="400" height="200"></canvas>
+               </div>
+            </section>
+            <h3 class="sub-judul-1" id="dis-profit/quantity-sales">COMPARISON OF DISCOUNTS AND PROFIT/QUANTITY AND SALES</h3>
+            <section class="baris-2">
+                <div class="box-2" id="discount-sales">
+                    <h2>Discount and Sales by City</h2>
+                    <select id="cityFilter">
+                        <option value="all">highest discount</option>
+                    </select>
+                    <div >
+                        <canvas id="discountSalesChart" ></canvas>
+                    </div> 
+                </div>
+                <div class="box-2" id="dis-profit">
+                    <h2>Discounts and Profit/Quantity by City</h2>
+                    <select id="profitCityFilter">
+                        <option value="all">highest discount</option>
+                    </select>
+                    <div>
+                        <canvas id="discountProfitQuantityChart"></canvas>
+                    </div>
+                </div>
+            </section>
+            <h3 class="sub-judul-1" id="profit-margin-chart">PROFIT MARGIN (CATEGORY)</h3>
+            <section class="baris-3">
+                <div class="box-3">
+                    <h2>Profit Margin Chart</h2>
+                    <canvas id="profitMarginChart"></canvas>
+                </div>
+            </section>
+            <section class="baris-4">
+                <div class="box-4">
+                    <h2>Profit Margin Table</h2>
+                    <table id="profit-margin" class="display" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Order Date (Tahun)</th>
+                                <th>Category</th>
+                                <th>Profit</th>
+                                <th>Quantity</th>
+                                <th>Sales</th>
+                                <th>Profit Margin</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+                <div class="box-4-1">
+                    <h2>Customer Lifetime Value</h2>
+                    <table id="CLV" class="display" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Customer ID</th>
+                                <th>Profit</th>
+                                <th>Order ID</th>
+                                <th>Average Profit per Order</th>
+                                <th>CLV</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </section>
+        </main>
+    </div>
+<footer> 
+    <div class="footer-section">
+    <p>&#169; 2024, Superstore Jakarta Team 16</p>
+    </div>
+    <div class="footer-section">
+        <h3>About Us</h3>
+        <p>Superstore</p>
+    </div>
+  </footer>
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+    const sidebar = document.getElementById('sidebar');
+    const sidebarHandle = document.getElementById('sidebar-handle');
+    const main = document.querySelector('main');
+    const footer = document.querySelector('footer');
+    const hamburger = document.getElementById('hamburger');
+    const navLinks = document.getElementById('nav-links');
+
+    const darkModeToggle = document.getElementById('dark-mode-toggle');
+    const darkModeIcon = document.getElementById('dark-mode-icon');
+    const darkModeToggle2 = document.getElementById('dark-mode-toggle2');
+    const darkModeIcon2 = document.getElementById('dark-mode-icon2');
+    const body = document.body;
+    const nav = document.querySelector('nav');
+    const subJudul = document.querySelector('.sub-judul');
+    const subJudul1 = document.querySelector('.sub-judul-1');
+    const boxes = document.querySelectorAll('.box-1, .box-1-1, .box-2, .box-3, .box-4, .box-4-1');
+
+    darkModeToggle.addEventListener('click', function() {
+        body.classList.toggle('dark-mode');
+        nav.classList.toggle('dark-mode');
+        sidebar.classList.toggle('dark-mode');
+        subJudul.classList.toggle('dark-mode');
+        subJudul1.classList.toggle('dark-mode');
+        footer.classList.toggle('dark-mode');
+        main.classList.toggle('dark-mode');
+
+        boxes.forEach(box => {
+            box.classList.toggle('dark-mode');
+        });
+
+        if (body.classList.contains('dark-mode')) {
+            darkModeIcon.textContent = 'light_mode';
+            darkModeIcon2.textContent = 'light_mode';
+        } else {
+            darkModeIcon.textContent = 'dark_mode';
+            darkModeIcon2.textContent = 'dark_mode';
+        }
+    });
+
+    darkModeToggle2.addEventListener('click', function() {
+            darkModeToggle.click(); 
+        });
+
+    hamburger.addEventListener('click', function() {
+        navLinks.classList.toggle('active');
+       });
+
+    sidebarHandle.addEventListener('click', function() {
+        sidebar.classList.toggle('collapsed');
+        if (sidebar.classList.contains('collapsed')) {
+            main.style.marginLeft = '50px'; 
+            footer.style.marginLeft = '-40px';
+            footer.style.width = '100%';
+        } else {
+            main.style.marginLeft = '220px'; 
+            footer.style.marginLeft = '200px';
+            footer.style.width = 'calc(100% - 200px)'; 
+        }
+    });
+});
+</script>
+
+<script>
+    $(document).ready(function() {
+        $('#profit-margin').DataTable({
+            "ajax": {
+                "url": "./json/profitmargin.json",
+                "dataSrc": "" 
+            },
+            "columns": [
+                { "data": "Order Date (Tahun)" },
+                { "data": "Category" },
+                { "data": "Profit" },
+                { "data": "Quantity" },
+                { "data": "Sales" },
+                { "data": "profit Margin" }
+            ]
+        });
+    });
+</script>
+
+<script>
+$(document).ready(function() {
+    $('#CLV').DataTable({
+        "ajax": {
+            "url": "./json/datatables.json",
+            "dataSrc": "" 
+        },
+        "columns": [
+            { "data": "Customer ID" },
+            { "data": "Profit" },
+            { "data": "Order ID" },
+            { "data": "Avarage profit\/order" },
+            { "data": "clv" }
+        ]
+    });
+});
+    </script>
+</body>
+</html>

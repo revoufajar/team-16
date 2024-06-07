@@ -1,0 +1,5415 @@
+{
+    "customerSegmentData": [
+        {
+            "Order Date (Tahun)": "2015",
+            "Segment": "Corporate",
+            "Discount": 1.7065767284991569
+           },
+           {
+            "Order Date (Tahun)": "2015",
+            "Segment": "Consumer",
+            "Discount": 1.6996233521657251
+           },
+           {
+            "Order Date (Tahun)": "2014",
+            "Segment": "Consumer",
+            "Discount": 1.6333333333333333
+           },
+           {
+            "Order Date (Tahun)": "2017",
+            "Segment": "Consumer",
+            "Discount": 1.619047619047619
+           },
+           {
+            "Order Date (Tahun)": "2016",
+            "Segment": "Corporate",
+            "Discount": 1.614247311827957
+           },
+           {
+            "Order Date (Tahun)": "2017",
+            "Segment": "Corporate",
+            "Discount": 1.5700431034482758
+           },
+           {
+            "Order Date (Tahun)": "2016",
+            "Segment": "Home Office",
+            "Discount": 1.5517241379310345
+           },
+           {
+            "Order Date (Tahun)": "2017",
+            "Segment": "Home Office",
+            "Discount": 1.476947535771065
+           },
+           {
+            "Order Date (Tahun)": "2014",
+            "Segment": "Home Office",
+            "Discount": 1.4545454545454546
+           },
+           {
+            "Order Date (Tahun)": "2016",
+            "Segment": "Consumer",
+            "Discount": 1.4541800643086817
+           },
+           {
+            "Order Date (Tahun)": "2014",
+            "Segment": "Corporate",
+            "Discount": 1.38339222614841
+           },
+           {
+            "Order Date (Tahun)": "2015",
+            "Segment": "Home Office",
+            "Discount": 1.259493670886076
+           }
+     
+    ],
+    "discountSalesData": [
+        {
+         "City": "Abilene",
+         "Discount": 0.8,
+         "Sales": 1.392
+        },
+        {
+         "City": "Deer Park",
+         "Discount": 0.8,
+         "Sales": 6.924
+        },
+        {
+         "City": "Missouri City",
+         "Discount": 0.8,
+         "Sales": 6.37
+        },
+        {
+         "City": "Ormond Beach",
+         "Discount": 0.7,
+         "Sales": 2.808
+        },
+        {
+         "City": "Elyria",
+         "Discount": 0.7,
+         "Sales": 1.824
+        },
+        {
+         "City": "Pensacola",
+         "Discount": 0.7,
+         "Sales": 2.214
+        },
+        {
+         "City": "Grove City",
+         "Discount": 0.7,
+         "Sales": 3.648
+        },
+        {
+         "City": "Oswego",
+         "Discount": 0.6000000000000001,
+         "Sales": 321.978
+        },
+        {
+         "City": "Tyler",
+         "Discount": 0.6000000000000001,
+         "Sales": 213.498
+        },
+        {
+         "City": "Pharr",
+         "Discount": 0.6,
+         "Sales": 22.608
+        },
+        {
+         "City": "Tinley Park",
+         "Discount": 0.6,
+         "Sales": 22.288
+        },
+        {
+         "City": "Bryan",
+         "Discount": 0.5800000000000001,
+         "Sales": 594.27
+        },
+        {
+         "City": "Waco",
+         "Discount": 0.56,
+         "Sales": 277.70799999999997
+        },
+        {
+         "City": "Mason",
+         "Discount": 0.5333333333333333,
+         "Sales": 94.264
+        },
+        {
+         "City": "Cuyahoga Falls",
+         "Discount": 0.5333333333333333,
+         "Sales": 29.093999999999998
+        },
+        {
+         "City": "Naperville",
+         "Discount": 0.5166666666666667,
+         "Sales": 775.6069999999999
+        },
+        {
+         "City": "Rockford",
+         "Discount": 0.5125000000000001,
+         "Sales": 1088.7440000000001
+        },
+        {
+         "City": "Pueblo",
+         "Discount": 0.4857142857142857,
+         "Sales": 983.228
+        },
+        {
+         "City": "Lubbock",
+         "Discount": 0.4666666666666667,
+         "Sales": 592.5640000000001
+        },
+        {
+         "City": "Mesquite",
+         "Discount": 0.45,
+         "Sales": 17.972
+        },
+        {
+         "City": "Yuma",
+         "Discount": 0.44999999999999996,
+         "Sales": 840.865
+        },
+        {
+         "City": "Hickory",
+         "Discount": 0.44999999999999996,
+         "Sales": 40.764
+        },
+        {
+         "City": "Hendersonville",
+         "Discount": 0.44999999999999996,
+         "Sales": 101.18599999999998
+        },
+        {
+         "City": "Tamarac",
+         "Discount": 0.44999999999999996,
+         "Sales": 1413.51
+        },
+        {
+         "City": "Altoona",
+         "Discount": 0.44999999999999996,
+         "Sales": 20.451
+        },
+        {
+         "City": "Sanford",
+         "Discount": 0.44999999999999996,
+         "Sales": 225.54600000000002
+        },
+        {
+         "City": "Parker",
+         "Discount": 0.44999999999999996,
+         "Sales": 1067.942
+        },
+        {
+         "City": "Highland Park",
+         "Discount": 0.43333333333333335,
+         "Sales": 1121.6660000000002
+        },
+        {
+         "City": "Des Plaines",
+         "Discount": 0.43333333333333335,
+         "Sales": 1493.212
+        },
+        {
+         "City": "College Station",
+         "Discount": 0.43333333333333335,
+         "Sales": 291.04200000000003
+        },
+        {
+         "City": "Bethlehem",
+         "Discount": 0.425,
+         "Sales": 1656.0659999999998
+        },
+        {
+         "City": "Apopka",
+         "Discount": 0.41428571428571426,
+         "Sales": 904.554
+        },
+        {
+         "City": "Fort Worth",
+         "Discount": 0.4053846153846154,
+         "Sales": 6578.1184
+        },
+        {
+         "City": "Edinburg",
+         "Discount": 0.4,
+         "Sales": 88.27600000000001
+        },
+        {
+         "City": "Skokie",
+         "Discount": 0.4,
+         "Sales": 236.792
+        },
+        {
+         "City": "Bolingbrook",
+         "Discount": 0.4,
+         "Sales": 218.308
+        },
+        {
+         "City": "Frisco",
+         "Discount": 0.4,
+         "Sales": 57.504
+        },
+        {
+         "City": "Beaumont",
+         "Discount": 0.4,
+         "Sales": 472.11600000000004
+        },
+        {
+         "City": "Pearland",
+         "Discount": 0.4,
+         "Sales": 494.996
+        },
+        {
+         "City": "Carrollton",
+         "Discount": 0.4,
+         "Sales": 781.134
+        },
+        {
+         "City": "Medina",
+         "Discount": 0.4,
+         "Sales": 749.7579999999998
+        },
+        {
+         "City": "Palm Coast",
+         "Discount": 0.4,
+         "Sales": 274.428
+        },
+        {
+         "City": "Broomfield",
+         "Discount": 0.4,
+         "Sales": 793.504
+        },
+        {
+         "City": "Mcallen",
+         "Discount": 0.3764705882352941,
+         "Sales": 736.8659999999999
+        },
+        {
+         "City": "Allen",
+         "Discount": 0.375,
+         "Sales": 290.20599999999996
+        },
+        {
+         "City": "Peoria",
+         "Discount": 0.37142857142857144,
+         "Sales": 1471.3119999999997
+        },
+        {
+         "City": "Grand Prairie",
+         "Discount": 0.36923076923076925,
+         "Sales": 1012.486
+        },
+        {
+         "City": "Houston",
+         "Discount": 0.36713450292397665,
+         "Sales": 51099.69679999997
+        },
+        {
+         "City": "Wilson",
+         "Discount": 0.36666666666666664,
+         "Sales": 368.73199999999997
+        },
+        {
+         "City": "Boca Raton",
+         "Discount": 0.36666666666666664,
+         "Sales": 63.007999999999996
+        },
+        {
+         "City": "Port Saint Lucie",
+         "Discount": 0.36666666666666664,
+         "Sales": 248.95
+        },
+        {
+         "City": "Thomasville",
+         "Discount": 0.36666666666666664,
+         "Sales": 151.292
+        },
+        {
+         "City": "Akron",
+         "Discount": 0.3611111111111111,
+         "Sales": 1878.856
+        },
+        {
+         "City": "Odessa",
+         "Discount": 0.36,
+         "Sales": 976.124
+        },
+        {
+         "City": "York",
+         "Discount": 0.35,
+         "Sales": 780.0820000000001
+        },
+        {
+         "City": "Chicago",
+         "Discount": 0.34721189591078067,
+         "Sales": 40835.48700000003
+        },
+        {
+         "City": "Austin",
+         "Discount": 0.34594594594594597,
+         "Sales": 3859.6479999999997
+        },
+        {
+         "City": "San Antonio",
+         "Discount": 0.3423076923076923,
+         "Sales": 20646.448
+        },
+        {
+         "City": "Greensboro",
+         "Discount": 0.3416666666666667,
+         "Sales": 2355.3149999999996
+        },
+        {
+         "City": "Scottsdale",
+         "Discount": 0.33636363636363636,
+         "Sales": 1158.531
+        },
+        {
+         "City": "Murfreesboro",
+         "Discount": 0.33636363636363636,
+         "Sales": 337.33299999999997
+        },
+        {
+         "City": "Corpus Christi",
+         "Discount": 0.3333333333333333,
+         "Sales": 153.63200000000003
+        },
+        {
+         "City": "Garland",
+         "Discount": 0.3333333333333333,
+         "Sales": 49.368
+        },
+        {
+         "City": "Dublin",
+         "Discount": 0.33076923076923076,
+         "Sales": 2242.7839999999997
+        },
+        {
+         "City": "Chattanooga",
+         "Discount": 0.33,
+         "Sales": 988.803
+        },
+        {
+         "City": "Phoenix",
+         "Discount": 0.32982456140350874,
+         "Sales": 8978.587000000001
+        },
+        {
+         "City": "Mesa",
+         "Discount": 0.32916666666666666,
+         "Sales": 3212.9200000000005
+        },
+        {
+         "City": "Aurora",
+         "Discount": 0.32857142857142857,
+         "Sales": 7583.095
+        },
+        {
+         "City": "Toledo",
+         "Discount": 0.328,
+         "Sales": 1640.1669999999997
+        },
+        {
+         "City": "Chester",
+         "Discount": 0.32666666666666666,
+         "Sales": 1932.569
+        },
+        {
+         "City": "Dallas",
+         "Discount": 0.32522388059701496,
+         "Sales": 18108.59799999999
+        },
+        {
+         "City": "Johnson City",
+         "Discount": 0.325,
+         "Sales": 765.8480000000002
+        },
+        {
+         "City": "Cincinnati",
+         "Discount": 0.325,
+         "Sales": 771.9879999999999
+        },
+        {
+         "City": "Hillsboro",
+         "Discount": 0.325,
+         "Sales": 87.838
+        },
+        {
+         "City": "Loveland",
+         "Discount": 0.325,
+         "Sales": 20.964000000000002
+        },
+        {
+         "City": "Laredo",
+         "Discount": 0.3230769230769231,
+         "Sales": 1024.34
+        },
+        {
+         "City": "Tampa",
+         "Discount": 0.3212121212121212,
+         "Sales": 4076.131
+        },
+        {
+         "City": "Bedford",
+         "Discount": 0.32,
+         "Sales": 226.25600000000003
+        },
+        {
+         "City": "Philadelphia",
+         "Discount": 0.3163135593220339,
+         "Sales": 74874.13799999998
+        },
+        {
+         "City": "Pembroke Pines",
+         "Discount": 0.3153846153846154,
+         "Sales": 1338.9180000000001
+        },
+        {
+         "City": "Lancaster",
+         "Discount": 0.30930232558139537,
+         "Sales": 9524.786000000004
+        },
+        {
+         "City": "Miami",
+         "Discount": 0.3057692307692308,
+         "Sales": 7494.357999999999
+        },
+        {
+         "City": "Fort Lauderdale",
+         "Discount": 0.3041666666666667,
+         "Sales": 2716.4695
+        },
+        {
+         "City": "Tucson",
+         "Discount": 0.30344827586206896,
+         "Sales": 4452.245999999999
+        },
+        {
+         "City": "Normal",
+         "Discount": 0.3,
+         "Sales": 366.744
+        },
+        {
+         "City": "Deltona",
+         "Discount": 0.3,
+         "Sales": 893.2399999999999
+        },
+        {
+         "City": "San Marcos",
+         "Discount": 0.3,
+         "Sales": 108.44399999999999
+        },
+        {
+         "City": "Colorado Springs",
+         "Discount": 0.3,
+         "Sales": 3034.375
+        },
+        {
+         "City": "Greenville",
+         "Discount": 0.3,
+         "Sales": 2101.27
+        },
+        {
+         "City": "Texas City",
+         "Discount": 0.3,
+         "Sales": 790.972
+        },
+        {
+         "City": "San Angelo",
+         "Discount": 0.3,
+         "Sales": 638.9879999999999
+        },
+        {
+         "City": "Cleveland",
+         "Discount": 0.3,
+         "Sales": 4526.4169999999995
+        },
+        {
+         "City": "Portland",
+         "Discount": 0.29523809523809524,
+         "Sales": 3589.799
+        },
+        {
+         "City": "Hollywood",
+         "Discount": 0.2909090909090909,
+         "Sales": 1070.474
+        },
+        {
+         "City": "Orlando",
+         "Discount": 0.2909090909090909,
+         "Sales": 1740.0800000000002
+        },
+        {
+         "City": "Plantation",
+         "Discount": 0.2909090909090909,
+         "Sales": 1436.8359999999998
+        },
+        {
+         "City": "Hialeah",
+         "Discount": 0.2888888888888889,
+         "Sales": 2338.9489999999996
+        },
+        {
+         "City": "Lorain",
+         "Discount": 0.2875,
+         "Sales": 593.447
+        },
+        {
+         "City": "Charlotte",
+         "Discount": 0.2872340425531915,
+         "Sales": 9588.42
+        },
+        {
+         "City": "Round Rock",
+         "Discount": 0.2866666666666667,
+         "Sales": 923.9808
+        },
+        {
+         "City": "Fort Collins",
+         "Discount": 0.2833333333333333,
+         "Sales": 754.664
+        },
+        {
+         "City": "Redmond",
+         "Discount": 0.2818181818181818,
+         "Sales": 1098.2569999999998
+        },
+        {
+         "City": "Memphis",
+         "Discount": 0.27692307692307694,
+         "Sales": 4885.407
+        },
+        {
+         "City": "Saint Petersburg",
+         "Discount": 0.27692307692307694,
+         "Sales": 1517.584
+        },
+        {
+         "City": "Tallahassee",
+         "Discount": 0.27647058823529413,
+         "Sales": 7250.668999999999
+        },
+        {
+         "City": "El Paso",
+         "Discount": 0.27647058823529413,
+         "Sales": 2627.202
+        },
+        {
+         "City": "Jacksonville",
+         "Discount": 0.276271186440678,
+         "Sales": 18927.14900000001
+        },
+        {
+         "City": "Irving",
+         "Discount": 0.275,
+         "Sales": 605.5
+        },
+        {
+         "City": "Plano",
+         "Discount": 0.275,
+         "Sales": 1936.98
+        },
+        {
+         "City": "Huntsville",
+         "Discount": 0.274,
+         "Sales": 6507.434799999999
+        },
+        {
+         "City": "Allentown",
+         "Discount": 0.2714285714285714,
+         "Sales": 853.252
+        },
+        {
+         "City": "Asheville",
+         "Discount": 0.2714285714285714,
+         "Sales": 1475.3760000000002
+        },
+        {
+         "City": "Nashville",
+         "Discount": 0.2714285714285714,
+         "Sales": 6026.103
+        },
+        {
+         "City": "Clarksville",
+         "Discount": 0.2714285714285714,
+         "Sales": 2217.7299999999996
+        },
+        {
+         "City": "Tigard",
+         "Discount": 0.2714285714285714,
+         "Sales": 724.7020000000001
+        },
+        {
+         "City": "Raleigh",
+         "Discount": 0.2714285714285714,
+         "Sales": 3564.756
+        },
+        {
+         "City": "Amarillo",
+         "Discount": 0.26666666666666666,
+         "Sales": 3567.7300000000005
+        },
+        {
+         "City": "Glendale",
+         "Discount": 0.26521739130434785,
+         "Sales": 2917.865
+        },
+        {
+         "City": "Daytona Beach",
+         "Discount": 0.2625,
+         "Sales": 272.3315
+        },
+        {
+         "City": "Miramar",
+         "Discount": 0.2625,
+         "Sales": 1531.192
+        },
+        {
+         "City": "Woodstock",
+         "Discount": 0.26,
+         "Sales": 1143.9
+        },
+        {
+         "City": "Knoxville",
+         "Discount": 0.25833333333333336,
+         "Sales": 3928.166000000001
+        },
+        {
+         "City": "Durham",
+         "Discount": 0.25555555555555554,
+         "Sales": 879.96
+        },
+        {
+         "City": "Boynton Beach",
+         "Discount": 0.25,
+         "Sales": 469.5850000000001
+        },
+        {
+         "City": "Mansfield",
+         "Discount": 0.25,
+         "Sales": 558.877
+        },
+        {
+         "City": "Lakeland",
+         "Discount": 0.25,
+         "Sales": 5011.023999999999
+        },
+        {
+         "City": "Denver",
+         "Discount": 0.245,
+         "Sales": 11645.581
+        },
+        {
+         "City": "Parma",
+         "Discount": 0.24444444444444444,
+         "Sales": 3769.6599999999994
+        },
+        {
+         "City": "Carol Stream",
+         "Discount": 0.24,
+         "Sales": 1305.81
+        },
+        {
+         "City": "Tempe",
+         "Discount": 0.23846153846153847,
+         "Sales": 1070.302
+        },
+        {
+         "City": "Elmhurst",
+         "Discount": 0.23333333333333334,
+         "Sales": 661.252
+        },
+        {
+         "City": "Evanston",
+         "Discount": 0.23333333333333334,
+         "Sales": 313.831
+        },
+        {
+         "City": "Bowling Green",
+         "Discount": 0.23333333333333334,
+         "Sales": 1177.393
+        },
+        {
+         "City": "Port Arthur",
+         "Discount": 0.22,
+         "Sales": 737.0527999999999
+        },
+        {
+         "City": "Mentor",
+         "Discount": 0.22,
+         "Sales": 348.91
+        },
+        {
+         "City": "League City",
+         "Discount": 0.22,
+         "Sales": 621.3100000000001
+        },
+        {
+         "City": "Brownsville",
+         "Discount": 0.21666666666666667,
+         "Sales": 964.494
+        },
+        {
+         "City": "Bristol",
+         "Discount": 0.21538461538461537,
+         "Sales": 1251.1819999999998
+        },
+        {
+         "City": "Gastonia",
+         "Discount": 0.2,
+         "Sales": 705.472
+        },
+        {
+         "City": "Greeley",
+         "Discount": 0.2,
+         "Sales": 30.351999999999997
+        },
+        {
+         "City": "Conroe",
+         "Discount": 0.2,
+         "Sales": 111.672
+        },
+        {
+         "City": "West Palm Beach",
+         "Discount": 0.2,
+         "Sales": 141.328
+        },
+        {
+         "City": "Frankfort",
+         "Discount": 0.2,
+         "Sales": 76.864
+        },
+        {
+         "City": "Rio Rancho",
+         "Discount": 0.2,
+         "Sales": 1114.192
+        },
+        {
+         "City": "Delray Beach",
+         "Discount": 0.2,
+         "Sales": 242.536
+        },
+        {
+         "City": "Grapevine",
+         "Discount": 0.2,
+         "Sales": 41.528
+        },
+        {
+         "City": "Haltom City",
+         "Discount": 0.2,
+         "Sales": 61.344
+        },
+        {
+         "City": "Eugene",
+         "Discount": 0.2,
+         "Sales": 1465.032
+        },
+        {
+         "City": "Thornton",
+         "Discount": 0.2,
+         "Sales": 765.248
+        },
+        {
+         "City": "Cheyenne",
+         "Discount": 0.2,
+         "Sales": 1603.136
+        },
+        {
+         "City": "Kissimmee",
+         "Discount": 0.2,
+         "Sales": 751.984
+        },
+        {
+         "City": "Reading",
+         "Discount": 0.2,
+         "Sales": 351.752
+        },
+        {
+         "City": "The Colony",
+         "Discount": 0.2,
+         "Sales": 142.16
+        },
+        {
+         "City": "Avondale",
+         "Discount": 0.2,
+         "Sales": 946.808
+        },
+        {
+         "City": "Gilbert",
+         "Discount": 0.2,
+         "Sales": 2672.4480000000003
+        },
+        {
+         "City": "Pompano Beach",
+         "Discount": 0.2,
+         "Sales": 90.44
+        },
+        {
+         "City": "Redwood City",
+         "Discount": 0.2,
+         "Sales": 41.904
+        },
+        {
+         "City": "Lebanon",
+         "Discount": 0.2,
+         "Sales": 488.896
+        },
+        {
+         "City": "Bullhead City",
+         "Discount": 0.2,
+         "Sales": 22.288
+        },
+        {
+         "City": "Coral Springs",
+         "Discount": 0.2,
+         "Sales": 510.64000000000004
+        },
+        {
+         "City": "Coral Gables",
+         "Discount": 0.2,
+         "Sales": 64.248
+        },
+        {
+         "City": "Arvada",
+         "Discount": 0.2,
+         "Sales": 503.4
+        },
+        {
+         "City": "Cedar Hill",
+         "Discount": 0.2,
+         "Sales": 122.376
+        },
+        {
+         "City": "Chandler",
+         "Discount": 0.2,
+         "Sales": 1002.832
+        },
+        {
+         "City": "Baytown",
+         "Discount": 0.2,
+         "Sales": 10.368
+        },
+        {
+         "City": "Homestead",
+         "Discount": 0.2,
+         "Sales": 132.552
+        },
+        {
+         "City": "Harlingen",
+         "Discount": 0.2,
+         "Sales": 230.072
+        },
+        {
+         "City": "Jupiter",
+         "Discount": 0.2,
+         "Sales": 2.064
+        },
+        {
+         "City": "North Miami",
+         "Discount": 0.2,
+         "Sales": 22.128
+        },
+        {
+         "City": "Coppell",
+         "Discount": 0.2,
+         "Sales": 135.936
+        },
+        {
+         "City": "Park Ridge",
+         "Discount": 0.2,
+         "Sales": 430.256
+        },
+        {
+         "City": "Redding",
+         "Discount": 0.2,
+         "Sales": 333.576
+        },
+        {
+         "City": "Richardson",
+         "Discount": 0.2,
+         "Sales": 1097.544
+        },
+        {
+         "City": "Hamilton",
+         "Discount": 0.2,
+         "Sales": 328.224
+        },
+        {
+         "City": "Bartlett",
+         "Discount": 0.2,
+         "Sales": 88.96
+        },
+        {
+         "City": "Gresham",
+         "Discount": 0.2,
+         "Sales": 2107.072
+        },
+        {
+         "City": "Billings",
+         "Discount": 0.2,
+         "Sales": 8.288
+        },
+        {
+         "City": "Medford",
+         "Discount": 0.2,
+         "Sales": 80.456
+        },
+        {
+         "City": "Palatine",
+         "Discount": 0.2,
+         "Sales": 116.312
+        },
+        {
+         "City": "Keller",
+         "Discount": 0.2,
+         "Sales": 6
+        },
+        {
+         "City": "Commerce City",
+         "Discount": 0.2,
+         "Sales": 146.352
+        },
+        {
+         "City": "Englewood",
+         "Discount": 0.2,
+         "Sales": 124.056
+        },
+        {
+         "City": "Goldsboro",
+         "Discount": 0.2,
+         "Sales": 34.944
+        },
+        {
+         "City": "Whittier",
+         "Discount": 0.2,
+         "Sales": 444.768
+        },
+        {
+         "City": "Lake Elsinore",
+         "Discount": 0.2,
+         "Sales": 283.92
+        },
+        {
+         "City": "Orland Park",
+         "Discount": 0.2,
+         "Sales": 339.96
+        },
+        {
+         "City": "Margate",
+         "Discount": 0.2,
+         "Sales": 15.552
+        },
+        {
+         "City": "Longmont",
+         "Discount": 0.2,
+         "Sales": 648.736
+        },
+        {
+         "City": "Chapel Hill",
+         "Discount": 0.2,
+         "Sales": 14.016
+        },
+        {
+         "City": "El Cajon",
+         "Discount": 0.2,
+         "Sales": 865.616
+        },
+        {
+         "City": "Cary",
+         "Discount": 0.2,
+         "Sales": 505.208
+        },
+        {
+         "City": "Ontario",
+         "Discount": 0.2,
+         "Sales": 283.92
+        },
+        {
+         "City": "Glenview",
+         "Discount": 0.2,
+         "Sales": 158.376
+        },
+        {
+         "City": "Sierra Vista",
+         "Discount": 0.2,
+         "Sales": 76.07199999999999
+        },
+        {
+         "City": "Melbourne",
+         "Discount": 0.2,
+         "Sales": 95.616
+        },
+        {
+         "City": "Missoula",
+         "Discount": 0.2,
+         "Sales": 487.984
+        },
+        {
+         "City": "Arlington Heights",
+         "Discount": 0.2,
+         "Sales": 14.112
+        },
+        {
+         "City": "Port Orange",
+         "Discount": 0.2,
+         "Sales": 7.824
+        },
+        {
+         "City": "Buffalo Grove",
+         "Discount": 0.2,
+         "Sales": 475.944
+        },
+        {
+         "City": "Quincy",
+         "Discount": 0.195,
+         "Sales": 1276.4589999999998
+        },
+        {
+         "City": "Troy",
+         "Discount": 0.1875,
+         "Sales": 2463.641
+        },
+        {
+         "City": "Decatur",
+         "Discount": 0.178125,
+         "Sales": 4548.750999999999
+        },
+        {
+         "City": "Salem",
+         "Discount": 0.1763157894736842,
+         "Sales": 2763.8550000000005
+        },
+        {
+         "City": "Pasadena",
+         "Discount": 0.17073170731707318,
+         "Sales": 6253.636000000001
+        },
+        {
+         "City": "Marion",
+         "Discount": 0.1631578947368421,
+         "Sales": 2883.406
+        },
+        {
+         "City": "Saint Charles",
+         "Discount": 0.1625,
+         "Sales": 1577.55
+        },
+        {
+         "City": "Columbus",
+         "Discount": 0.1619718309859155,
+         "Sales": 36302.11799999999
+        },
+        {
+         "City": "Wheeling",
+         "Discount": 0.16,
+         "Sales": 672.152
+        },
+        {
+         "City": "Fayetteville",
+         "Discount": 0.15789473684210525,
+         "Sales": 5635.648000000001
+        },
+        {
+         "City": "Arlington",
+         "Discount": 0.15714285714285714,
+         "Sales": 19157.551000000003
+        },
+        {
+         "City": "Encinitas",
+         "Discount": 0.15000000000000002,
+         "Sales": 472.148
+        },
+        {
+         "City": "Torrance",
+         "Discount": 0.15000000000000002,
+         "Sales": 3132.268
+        },
+        {
+         "City": "Freeport",
+         "Discount": 0.14444444444444446,
+         "Sales": 642.366
+        },
+        {
+         "City": "La Porte",
+         "Discount": 0.14,
+         "Sales": 1051.7320000000002
+        },
+        {
+         "City": "Bloomington",
+         "Discount": 0.13846153846153847,
+         "Sales": 908.488
+        },
+        {
+         "City": "Hesperia",
+         "Discount": 0.1375,
+         "Sales": 1213.1715
+        },
+        {
+         "City": "Woodland",
+         "Discount": 0.13333333333333333,
+         "Sales": 264.66200000000003
+        },
+        {
+         "City": "Kent",
+         "Discount": 0.13333333333333333,
+         "Sales": 1625.5800000000002
+        },
+        {
+         "City": "Modesto",
+         "Discount": 0.13333333333333333,
+         "Sales": 326.15
+        },
+        {
+         "City": "Louisville",
+         "Discount": 0.13333333333333333,
+         "Sales": 8391.229000000001
+        },
+        {
+         "City": "Springfield",
+         "Discount": 0.1292207792207792,
+         "Sales": 33614.38800000001
+        },
+        {
+         "City": "Sacramento",
+         "Discount": 0.12307692307692308,
+         "Sales": 7311.278
+        },
+        {
+         "City": "Franklin",
+         "Discount": 0.12285714285714286,
+         "Sales": 11036.387000000002
+        },
+        {
+         "City": "Fairfield",
+         "Discount": 0.1225,
+         "Sales": 7554.771000000001
+        },
+        {
+         "City": "Redondo Beach",
+         "Discount": 0.11875000000000001,
+         "Sales": 1959.8029999999999
+        },
+        {
+         "City": "Burlington",
+         "Discount": 0.11739130434782609,
+         "Sales": 15629.994000000004
+        },
+        {
+         "City": "Lakewood",
+         "Discount": 0.11666666666666667,
+         "Sales": 17005.682999999994
+        },
+        {
+         "City": "Camarillo",
+         "Discount": 0.11,
+         "Sales": 1467.5175
+        },
+        {
+         "City": "Fresno",
+         "Discount": 0.108,
+         "Sales": 7712.488499999999
+        },
+        {
+         "City": "Renton",
+         "Discount": 0.1,
+         "Sales": 202.64
+        },
+        {
+         "City": "Boise",
+         "Discount": 0.1,
+         "Sales": 1094.4699999999998
+        },
+        {
+         "City": "Lehi",
+         "Discount": 0.1,
+         "Sales": 1516.726
+        },
+        {
+         "City": "Reno",
+         "Discount": 0.1,
+         "Sales": 644.062
+        },
+        {
+         "City": "Clovis",
+         "Discount": 0.1,
+         "Sales": 111.42
+        },
+        {
+         "City": "La Mesa",
+         "Discount": 0.1,
+         "Sales": 367.53
+        },
+        {
+         "City": "Niagara Falls",
+         "Discount": 0.1,
+         "Sales": 34.992000000000004
+        },
+        {
+         "City": "Stockton",
+         "Discount": 0.1,
+         "Sales": 1227.6
+        },
+        {
+         "City": "Twin Falls",
+         "Discount": 0.1,
+         "Sales": 1148.806
+        },
+        {
+         "City": "San Clemente",
+         "Discount": 0.1,
+         "Sales": 90.05799999999999
+        },
+        {
+         "City": "Vallejo",
+         "Discount": 0.1,
+         "Sales": 1221.4099999999999
+        },
+        {
+         "City": "Bakersfield",
+         "Discount": 0.096875,
+         "Sales": 1377.29
+        },
+        {
+         "City": "San Bernardino",
+         "Discount": 0.09375,
+         "Sales": 939.3800000000001
+        },
+        {
+         "City": "Hempstead",
+         "Discount": 0.09090909090909091,
+         "Sales": 2589.586
+        },
+        {
+         "City": "Concord",
+         "Discount": 0.08870967741935484,
+         "Sales": 10542.402000000002
+        },
+        {
+         "City": "Laguna Niguel",
+         "Discount": 0.0875,
+         "Sales": 290.983
+        },
+        {
+         "City": "Morgan Hill",
+         "Discount": 0.0875,
+         "Sales": 545.01
+        },
+        {
+         "City": "Newark",
+         "Discount": 0.08681318681318681,
+         "Sales": 27714.02399999999
+        },
+        {
+         "City": "Monroe",
+         "Discount": 0.08571428571428572,
+         "Sales": 2970.4339999999997
+        },
+        {
+         "City": "Pleasant Grove",
+         "Discount": 0.08571428571428572,
+         "Sales": 2138.178
+        },
+        {
+         "City": "Salinas",
+         "Discount": 0.08571428571428572,
+         "Sales": 580.634
+        },
+        {
+         "City": "Wilmington",
+         "Discount": 0.08529411764705883,
+         "Sales": 6367.981000000001
+        },
+        {
+         "City": "Anaheim",
+         "Discount": 0.08148148148148149,
+         "Sales": 7986.870000000001
+        },
+        {
+         "City": "Westminster",
+         "Discount": 0.08,
+         "Sales": 2146.3619999999996
+        },
+        {
+         "City": "Logan",
+         "Discount": 0.08,
+         "Sales": 280.276
+        },
+        {
+         "City": "Olympia",
+         "Discount": 0.08,
+         "Sales": 1020.448
+        },
+        {
+         "City": "Watertown",
+         "Discount": 0.07777777777777778,
+         "Sales": 3582.434
+        },
+        {
+         "City": "Las Vegas",
+         "Discount": 0.07692307692307693,
+         "Sales": 1834.02
+        },
+        {
+         "City": "San Diego",
+         "Discount": 0.07666666666666667,
+         "Sales": 45211.342
+        },
+        {
+         "City": "Santa Barbara",
+         "Discount": 0.07500000000000001,
+         "Sales": 4289.234
+        },
+        {
+         "City": "Salt Lake City",
+         "Discount": 0.07500000000000001,
+         "Sales": 802.7760000000001
+        },
+        {
+         "City": "Smyrna",
+         "Discount": 0.07391304347826087,
+         "Sales": 3171.695
+        },
+        {
+         "City": "Chico",
+         "Discount": 0.07272727272727274,
+         "Sales": 2050.1780000000003
+        },
+        {
+         "City": "Carlsbad",
+         "Discount": 0.07272727272727274,
+         "Sales": 419.34
+        },
+        {
+         "City": "Los Angeles",
+         "Discount": 0.07216916780354707,
+         "Sales": 165183.90200000003
+        },
+        {
+         "City": "Oakland",
+         "Discount": 0.07200000000000001,
+         "Sales": 5891.674
+        },
+        {
+         "City": "San Jose",
+         "Discount": 0.07195121951219513,
+         "Sales": 5797.562999999999
+        },
+        {
+         "City": "Pocatello",
+         "Discount": 0.06666666666666667,
+         "Sales": 1042.566
+        },
+        {
+         "City": "Helena",
+         "Discount": 0.06666666666666667,
+         "Sales": 443.84
+        },
+        {
+         "City": "Oak Park",
+         "Discount": 0.06666666666666667,
+         "Sales": 591.0519999999999
+        },
+        {
+         "City": "Pasco",
+         "Discount": 0.06666666666666667,
+         "Sales": 2201.112
+        },
+        {
+         "City": "Spokane",
+         "Discount": 0.06666666666666667,
+         "Sales": 1956.938
+        },
+        {
+         "City": "San Gabriel",
+         "Discount": 0.06666666666666667,
+         "Sales": 2061.01
+        },
+        {
+         "City": "Escondido",
+         "Discount": 0.06666666666666667,
+         "Sales": 94.548
+        },
+        {
+         "City": "Yonkers",
+         "Discount": 0.06666666666666667,
+         "Sales": 7657.666
+        },
+        {
+         "City": "Temecula",
+         "Discount": 0.06666666666666667,
+         "Sales": 314.29
+        },
+        {
+         "City": "Caldwell",
+         "Discount": 0.06666666666666667,
+         "Sales": 455.632
+        },
+        {
+         "City": "Bellevue",
+         "Discount": 0.06666666666666667,
+         "Sales": 103.622
+        },
+        {
+         "City": "Bellingham",
+         "Discount": 0.06666666666666667,
+         "Sales": 3790.24
+        },
+        {
+         "City": "Manteca",
+         "Discount": 0.06666666666666667,
+         "Sales": 452.182
+        },
+        {
+         "City": "Sunnyvale",
+         "Discount": 0.06666666666666667,
+         "Sales": 636.2099999999999
+        },
+        {
+         "City": "Santa Clara",
+         "Discount": 0.06666666666666667,
+         "Sales": 222.192
+        },
+        {
+         "City": "Seattle",
+         "Discount": 0.06539379474940335,
+         "Sales": 112816.93800000001
+        },
+        {
+         "City": "San Francisco",
+         "Discount": 0.06431451612903226,
+         "Sales": 104641.08699999998
+        },
+        {
+         "City": "Brentwood",
+         "Discount": 0.0625,
+         "Sales": 5090.113999999999
+        },
+        {
+         "City": "Apple Valley",
+         "Discount": 0.061111111111111116,
+         "Sales": 2053.021
+        },
+        {
+         "City": "Columbia",
+         "Discount": 0.060526315789473685,
+         "Sales": 22629.314000000002
+        },
+        {
+         "City": "Provo",
+         "Discount": 0.060000000000000005,
+         "Sales": 2761.2339999999995
+        },
+        {
+         "City": "Long Beach",
+         "Discount": 0.058333333333333334,
+         "Sales": 12240.179999999998
+        },
+        {
+         "City": "Great Falls",
+         "Discount": 0.05714285714285715,
+         "Sales": 1605.63
+        },
+        {
+         "City": "Albuquerque",
+         "Discount": 0.05714285714285715,
+         "Sales": 2220.16
+        },
+        {
+         "City": "New Rochelle",
+         "Discount": 0.05555555555555556,
+         "Sales": 1255.228
+        },
+        {
+         "City": "Buffalo",
+         "Discount": 0.05555555555555556,
+         "Sales": 7540.857999999999
+        },
+        {
+         "City": "Costa Mesa",
+         "Discount": 0.05454545454545455,
+         "Sales": 1497.6699999999998
+        },
+        {
+         "City": "Inglewood",
+         "Discount": 0.05333333333333334,
+         "Sales": 3350.428
+        },
+        {
+         "City": "New York City",
+         "Discount": 0.05270425776754891,
+         "Sales": 203480.05600000004
+        },
+        {
+         "City": "Oxnard",
+         "Discount": 0.05,
+         "Sales": 445.16
+        },
+        {
+         "City": "Lewiston",
+         "Discount": 0.05,
+         "Sales": 115.664
+        },
+        {
+         "City": "Utica",
+         "Discount": 0.05,
+         "Sales": 655.04
+        },
+        {
+         "City": "Meridian",
+         "Discount": 0.05,
+         "Sales": 329.052
+        },
+        {
+         "City": "Oceanside",
+         "Discount": 0.05,
+         "Sales": 3320.776
+        },
+        {
+         "City": "Rancho Cucamonga",
+         "Discount": 0.05,
+         "Sales": 231.852
+        },
+        {
+         "City": "Redlands",
+         "Discount": 0.046875,
+         "Sales": 2891.021
+        },
+        {
+         "City": "Riverside",
+         "Discount": 0.046153846153846156,
+         "Sales": 1936.4460000000001
+        },
+        {
+         "City": "Edmonds",
+         "Discount": 0.046153846153846156,
+         "Sales": 1225.142
+        },
+        {
+         "City": "Murray",
+         "Discount": 0.04,
+         "Sales": 410.938
+        },
+        {
+         "City": "West Jordan",
+         "Discount": 0.04,
+         "Sales": 311.85
+        },
+        {
+         "City": "Thousand Oaks",
+         "Discount": 0.04,
+         "Sales": 238.804
+        },
+        {
+         "City": "Vancouver",
+         "Discount": 0.04,
+         "Sales": 686.8359999999999
+        },
+        {
+         "City": "Vineland",
+         "Discount": 0.0375,
+         "Sales": 647.966
+        },
+        {
+         "City": "Santa Ana",
+         "Discount": 0.03636363636363637,
+         "Sales": 2637.1259999999997
+        },
+        {
+         "City": "Rochester",
+         "Discount": 0.03529411764705882,
+         "Sales": 7333.704000000001
+        },
+        {
+         "City": "Danville",
+         "Discount": 0.03333333333333333,
+         "Sales": 1158.882
+        },
+        {
+         "City": "Huntington Beach",
+         "Discount": 0.03333333333333333,
+         "Sales": 2527.82
+        },
+        {
+         "City": "Lake Forest",
+         "Discount": 0.03333333333333333,
+         "Sales": 1625.5359999999998
+        },
+        {
+         "City": "Des Moines",
+         "Discount": 0.031578947368421054,
+         "Sales": 5463.278
+        },
+        {
+         "City": "Jackson",
+         "Discount": 0.03037974683544304,
+         "Sales": 18652.784
+        },
+        {
+         "City": "Mission Viejo",
+         "Discount": 0.03,
+         "Sales": 775.986
+        },
+        {
+         "City": "Pomona",
+         "Discount": 0.028571428571428574,
+         "Sales": 1482.502
+        },
+        {
+         "City": "North Las Vegas",
+         "Discount": 0.02666666666666667,
+         "Sales": 5265.026
+        },
+        {
+         "City": "Mount Vernon",
+         "Discount": 0.025,
+         "Sales": 2119.632
+        },
+        {
+         "City": "Everett",
+         "Discount": 0.023809523809523808,
+         "Sales": 5075.833999999999
+        },
+        {
+         "City": "Orem",
+         "Discount": 0.022222222222222223,
+         "Sales": 2994.0879999999997
+        },
+        {
+         "City": "Cranston",
+         "Discount": 0.02142857142857143,
+         "Sales": 3398.4859999999994
+        },
+        {
+         "City": "Ann Arbor",
+         "Discount": 0.02,
+         "Sales": 889.273
+        },
+        {
+         "City": "Moreno Valley",
+         "Discount": 0.02,
+         "Sales": 1262.466
+        },
+        {
+         "City": "Rome",
+         "Discount": 0.016666666666666666,
+         "Sales": 534.852
+        },
+        {
+         "City": "Dover",
+         "Discount": 0.015789473684210527,
+         "Sales": 4878.074
+        },
+        {
+         "City": "Roseville",
+         "Discount": 0.015384615384615385,
+         "Sales": 3588.626
+        },
+        {
+         "City": "Providence",
+         "Discount": 0.010344827586206896,
+         "Sales": 15750.569999999994
+        },
+        {
+         "City": "Auburn",
+         "Discount": 0.008333333333333333,
+         "Sales": 3155.168
+        },
+        {
+         "City": "Midland",
+         "Discount": 0.008333333333333333,
+         "Sales": 5291.512
+        },
+        {
+         "City": "Westland",
+         "Discount": 0.007692307692307693,
+         "Sales": 2057.976
+        },
+        {
+         "City": "Trenton",
+         "Discount": 0.007692307692307693,
+         "Sales": 1765.1950000000002
+        },
+        {
+         "City": "Baltimore",
+         "Discount": 0.007317073170731707,
+         "Sales": 5874.021999999999
+        },
+        {
+         "City": "Lawrence",
+         "Discount": 0.007142857142857143,
+         "Sales": 6821.2119999999995
+        },
+        {
+         "City": "Henderson",
+         "Discount": 0.00392156862745098,
+         "Sales": 17549.067999999996
+        },
+        {
+         "City": "Detroit",
+         "Discount": 0.00392156862745098,
+         "Sales": 22863.16200000001
+        },
+        {
+         "City": "Marlborough",
+         "Discount": 0,
+         "Sales": 206.64
+        },
+        {
+         "City": "Meriden",
+         "Discount": 0,
+         "Sales": 1539.92
+        },
+        {
+         "City": "Muskogee",
+         "Discount": 0,
+         "Sales": 1459.59
+        },
+        {
+         "City": "Warner Robins",
+         "Discount": 0,
+         "Sales": 434.8
+        },
+        {
+         "City": "Danbury",
+         "Discount": 0,
+         "Sales": 27.46
+        },
+        {
+         "City": "Shelton",
+         "Discount": 0,
+         "Sales": 73.33
+        },
+        {
+         "City": "Tulsa",
+         "Discount": 0,
+         "Sales": 5103.05
+        },
+        {
+         "City": "Rapid City",
+         "Discount": 0,
+         "Sales": 152.64000000000001
+        },
+        {
+         "City": "Sheboygan",
+         "Discount": 0,
+         "Sales": 79.74000000000001
+        },
+        {
+         "City": "Olathe",
+         "Discount": 0,
+         "Sales": 895.79
+        },
+        {
+         "City": "Kenosha",
+         "Discount": 0,
+         "Sales": 3906.73
+        },
+        {
+         "City": "Dearborn",
+         "Discount": 0,
+         "Sales": 1048.1
+        },
+        {
+         "City": "Clifton",
+         "Discount": 0,
+         "Sales": 336.82
+        },
+        {
+         "City": "Davis",
+         "Discount": 0,
+         "Sales": 32.4
+        },
+        {
+         "City": "Bayonne",
+         "Discount": 0,
+         "Sales": 78.42
+        },
+        {
+         "City": "Burbank",
+         "Discount": 0,
+         "Sales": 1967.19
+        },
+        {
+         "City": "Indianapolis",
+         "Discount": 0,
+         "Sales": 9306.419999999998
+        },
+        {
+         "City": "Marysville",
+         "Discount": 0,
+         "Sales": 102.18
+        },
+        {
+         "City": "Suffolk",
+         "Discount": 0,
+         "Sales": 1597.9
+        },
+        {
+         "City": "Green Bay",
+         "Discount": 0,
+         "Sales": 527.32
+        },
+        {
+         "City": "Saginaw",
+         "Discount": 0,
+         "Sales": 395.85999999999996
+        },
+        {
+         "City": "Montebello",
+         "Discount": 0,
+         "Sales": 27.88
+        },
+        {
+         "City": "Lafayette",
+         "Discount": 0,
+         "Sales": 25036.199999999997
+        },
+        {
+         "City": "Beverly",
+         "Discount": 0,
+         "Sales": 2583.1900000000005
+        },
+        {
+         "City": "Cambridge",
+         "Discount": 0,
+         "Sales": 502.09
+        },
+        {
+         "City": "Waterloo",
+         "Discount": 0,
+         "Sales": 30.32
+        },
+        {
+         "City": "Appleton",
+         "Discount": 0,
+         "Sales": 1671.31
+        },
+        {
+         "City": "Montgomery",
+         "Discount": 0,
+         "Sales": 1781.9
+        },
+        {
+         "City": "Longview",
+         "Discount": 0,
+         "Sales": 119.21000000000001
+        },
+        {
+         "City": "Santa Maria",
+         "Discount": 0,
+         "Sales": 115.44
+        },
+        {
+         "City": "Nashua",
+         "Discount": 0,
+         "Sales": 35.94
+        },
+        {
+         "City": "Bridgeton",
+         "Discount": 0,
+         "Sales": 52.41
+        },
+        {
+         "City": "Kenner",
+         "Discount": 0,
+         "Sales": 89.32000000000001
+        },
+        {
+         "City": "Owensboro",
+         "Discount": 0,
+         "Sales": 71.18
+        },
+        {
+         "City": "Conway",
+         "Discount": 0,
+         "Sales": 301.96
+        },
+        {
+         "City": "Gladstone",
+         "Discount": 0,
+         "Sales": 164.34
+        },
+        {
+         "City": "Atlanta",
+         "Discount": 0,
+         "Sales": 17197.84
+        },
+        {
+         "City": "Westfield",
+         "Discount": 0,
+         "Sales": 519.7199999999999
+        },
+        {
+         "City": "Milford",
+         "Discount": 0,
+         "Sales": 961.7400000000001
+        },
+        {
+         "City": "Holland",
+         "Discount": 0,
+         "Sales": 137.86
+        },
+        {
+         "City": "Draper",
+         "Discount": 0,
+         "Sales": 137.09
+        },
+        {
+         "City": "Norfolk",
+         "Discount": 0,
+         "Sales": 17.43
+        },
+        {
+         "City": "Sparks",
+         "Discount": 0,
+         "Sales": 165.56
+        },
+        {
+         "City": "Rogers",
+         "Discount": 0,
+         "Sales": 40.41
+        },
+        {
+         "City": "Woodbury",
+         "Discount": 0,
+         "Sales": 607.65
+        },
+        {
+         "City": "New Bedford",
+         "Discount": 0,
+         "Sales": 235.97000000000003
+        },
+        {
+         "City": "Lindenhurst",
+         "Discount": 0,
+         "Sales": 55.48
+        },
+        {
+         "City": "Grand Island",
+         "Discount": 0,
+         "Sales": 15.96
+        },
+        {
+         "City": "Kirkwood",
+         "Discount": 0,
+         "Sales": 241.34
+        },
+        {
+         "City": "Georgetown",
+         "Discount": 0,
+         "Sales": 1786.4200000000003
+        },
+        {
+         "City": "Mobile",
+         "Discount": 0,
+         "Sales": 2422.99
+        },
+        {
+         "City": "Tuscaloosa",
+         "Discount": 0,
+         "Sales": 175.70000000000002
+        },
+        {
+         "City": "Gaithersburg",
+         "Discount": 0,
+         "Sales": 405.91999999999996
+        },
+        {
+         "City": "Pico Rivera",
+         "Discount": 0,
+         "Sales": 145.9
+        },
+        {
+         "City": "Norman",
+         "Discount": 0,
+         "Sales": 1351.3300000000002
+        },
+        {
+         "City": "Wausau",
+         "Discount": 0,
+         "Sales": 317.47999999999996
+        },
+        {
+         "City": "Marietta",
+         "Discount": 0,
+         "Sales": 2755.95
+        },
+        {
+         "City": "Athens",
+         "Discount": 0,
+         "Sales": 1720.81
+        },
+        {
+         "City": "Waterbury",
+         "Discount": 0,
+         "Sales": 1326.06
+        },
+        {
+         "City": "Middletown",
+         "Discount": 0,
+         "Sales": 1154.6099999999997
+        },
+        {
+         "City": "Hattiesburg",
+         "Discount": 0,
+         "Sales": 1722.84
+        },
+        {
+         "City": "La Crosse",
+         "Discount": 0,
+         "Sales": 830.41
+        },
+        {
+         "City": "Cedar Rapids",
+         "Discount": 0,
+         "Sales": 278.4
+        },
+        {
+         "City": "Hampton",
+         "Discount": 0,
+         "Sales": 2108.92
+        },
+        {
+         "City": "Lawton",
+         "Discount": 0,
+         "Sales": 1057.4899999999998
+        },
+        {
+         "City": "Macon",
+         "Discount": 0,
+         "Sales": 364.01000000000005
+        },
+        {
+         "City": "Canton",
+         "Discount": 0,
+         "Sales": 818.13
+        },
+        {
+         "City": "Sandy Springs",
+         "Discount": 0,
+         "Sales": 1997.03
+        },
+        {
+         "City": "Elkhart",
+         "Discount": 0,
+         "Sales": 171.43
+        },
+        {
+         "City": "Fargo",
+         "Discount": 0,
+         "Sales": 919.91
+        },
+        {
+         "City": "Portage",
+         "Discount": 0,
+         "Sales": 16.28
+        },
+        {
+         "City": "Gulfport",
+         "Discount": 0,
+         "Sales": 166.5
+        },
+        {
+         "City": "Citrus Heights",
+         "Discount": 0,
+         "Sales": 129.39
+        },
+        {
+         "City": "Iowa City",
+         "Discount": 0,
+         "Sales": 9.99
+        },
+        {
+         "City": "Wichita",
+         "Discount": 0,
+         "Sales": 825.27
+        },
+        {
+         "City": "Rockville",
+         "Discount": 0,
+         "Sales": 469.77000000000004
+        },
+        {
+         "City": "Royal Oak",
+         "Discount": 0,
+         "Sales": 35.34
+        },
+        {
+         "City": "Richmond",
+         "Discount": 0,
+         "Sales": 15623.470000000001
+        },
+        {
+         "City": "Warwick",
+         "Discount": 0,
+         "Sales": 2174.84
+        },
+        {
+         "City": "Edmond",
+         "Discount": 0,
+         "Sales": 959.55
+        },
+        {
+         "City": "Broken Arrow",
+         "Discount": 0,
+         "Sales": 2439.53
+        },
+        {
+         "City": "Covington",
+         "Discount": 0,
+         "Sales": 413.67999999999995
+        },
+        {
+         "City": "Superior",
+         "Discount": 0,
+         "Sales": 1299.73
+        },
+        {
+         "City": "Woonsocket",
+         "Discount": 0,
+         "Sales": 195.54999999999998
+        },
+        {
+         "City": "Harrisonburg",
+         "Discount": 0,
+         "Sales": 2144.23
+        },
+        {
+         "City": "Greenwood",
+         "Discount": 0,
+         "Sales": 1665.0500000000002
+        },
+        {
+         "City": "Texarkana",
+         "Discount": 0,
+         "Sales": 654.24
+        },
+        {
+         "City": "Chula Vista",
+         "Discount": 0,
+         "Sales": 1041.62
+        },
+        {
+         "City": "West Allis",
+         "Discount": 0,
+         "Sales": 250.48000000000002
+        },
+        {
+         "City": "Lansing",
+         "Discount": 0,
+         "Sales": 955.2600000000001
+        },
+        {
+         "City": "Antioch",
+         "Discount": 0,
+         "Sales": 19.44
+        },
+        {
+         "City": "Rock Hill",
+         "Discount": 0,
+         "Sales": 11.85
+        },
+        {
+         "City": "Jonesboro",
+         "Discount": 0,
+         "Sales": 2215.39
+        },
+        {
+         "City": "Roswell",
+         "Discount": 0,
+         "Sales": 6652.319999999999
+        },
+        {
+         "City": "Manchester",
+         "Discount": 0,
+         "Sales": 2126.2799999999997
+        },
+        {
+         "City": "Saint Cloud",
+         "Discount": 0,
+         "Sales": 1331.82
+        },
+        {
+         "City": "Clinton",
+         "Discount": 0,
+         "Sales": 4963.82
+        },
+        {
+         "City": "Lowell",
+         "Discount": 0,
+         "Sales": 4052.0500000000006
+        },
+        {
+         "City": "Santa Fe",
+         "Discount": 0,
+         "Sales": 100.92
+        },
+        {
+         "City": "Dearborn Heights",
+         "Discount": 0,
+         "Sales": 1051.57
+        },
+        {
+         "City": "Dubuque",
+         "Discount": 0,
+         "Sales": 1687.3
+        },
+        {
+         "City": "Revere",
+         "Discount": 0,
+         "Sales": 833.26
+        },
+        {
+         "City": "Yucaipa",
+         "Discount": 0,
+         "Sales": 50.8
+        },
+        {
+         "City": "Layton",
+         "Discount": 0,
+         "Sales": 4.96
+        },
+        {
+         "City": "Independence",
+         "Discount": 0,
+         "Sales": 2417.37
+        },
+        {
+         "City": "Overland Park",
+         "Discount": 0,
+         "Sales": 606.91
+        },
+        {
+         "City": "Visalia",
+         "Discount": 0,
+         "Sales": 318.78000000000003
+        },
+        {
+         "City": "Saint Peters",
+         "Discount": 0,
+         "Sales": 697.16
+        },
+        {
+         "City": "Grand Rapids",
+         "Discount": 0,
+         "Sales": 526.13
+        },
+        {
+         "City": "San Mateo",
+         "Discount": 0,
+         "Sales": 75.18
+        },
+        {
+         "City": "Jefferson City",
+         "Discount": 0,
+         "Sales": 86.62
+        },
+        {
+         "City": "Maple Grove",
+         "Discount": 0,
+         "Sales": 882.87
+        },
+        {
+         "City": "Washington",
+         "Discount": 0,
+         "Sales": 2865.0199999999995
+        },
+        {
+         "City": "Lincoln Park",
+         "Discount": 0,
+         "Sales": 220.31
+        },
+        {
+         "City": "Eau Claire",
+         "Discount": 0,
+         "Sales": 1645.65
+        },
+        {
+         "City": "Murrieta",
+         "Discount": 0,
+         "Sales": 484.65
+        },
+        {
+         "City": "Virginia Beach",
+         "Discount": 0,
+         "Sales": 5134.16
+        },
+        {
+         "City": "Sterling Heights",
+         "Discount": 0,
+         "Sales": 110.03999999999999
+        },
+        {
+         "City": "Mount Pleasant",
+         "Discount": 0,
+         "Sales": 563.08
+        },
+        {
+         "City": "Noblesville",
+         "Discount": 0,
+         "Sales": 3091.1800000000003
+        },
+        {
+         "City": "Lake Charles",
+         "Discount": 0,
+         "Sales": 547.41
+        },
+        {
+         "City": "Orange",
+         "Discount": 0,
+         "Sales": 211.11
+        },
+        {
+         "City": "Farmington",
+         "Discount": 0,
+         "Sales": 718.72
+        },
+        {
+         "City": "Alexandria",
+         "Discount": 0,
+         "Sales": 5519.570000000001
+        },
+        {
+         "City": "Waukesha",
+         "Discount": 0,
+         "Sales": 54.5
+        },
+        {
+         "City": "Vacaville",
+         "Discount": 0,
+         "Sales": 423.28
+        },
+        {
+         "City": "Norwich",
+         "Discount": 0,
+         "Sales": 43.9
+        },
+        {
+         "City": "New Brunswick",
+         "Discount": 0,
+         "Sales": 14.77
+        },
+        {
+         "City": "Hackensack",
+         "Discount": 0,
+         "Sales": 1456.16
+        },
+        {
+         "City": "New Albany",
+         "Discount": 0,
+         "Sales": 209.55
+        },
+        {
+         "City": "Hoover",
+         "Discount": 0,
+         "Sales": 525.85
+        },
+        {
+         "City": "Las Cruces",
+         "Discount": 0,
+         "Sales": 98.77
+        },
+        {
+         "City": "Hot Springs",
+         "Discount": 0,
+         "Sales": 245.82999999999998
+        },
+        {
+         "City": "Linden",
+         "Discount": 0,
+         "Sales": 115.36
+        },
+        {
+         "City": "Summerville",
+         "Discount": 0,
+         "Sales": 327.84
+        },
+        {
+         "City": "Florence",
+         "Discount": 0,
+         "Sales": 4388.960000000001
+        },
+        {
+         "City": "Taylor",
+         "Discount": 0,
+         "Sales": 353.7
+        },
+        {
+         "City": "La Quinta",
+         "Discount": 0,
+         "Sales": 46.32
+        },
+        {
+         "City": "Milwaukee",
+         "Discount": 0,
+         "Sales": 9968.37
+        },
+        {
+         "City": "Jamestown",
+         "Discount": 0,
+         "Sales": 4708.79
+        },
+        {
+         "City": "Newport News",
+         "Discount": 0,
+         "Sales": 1130.7099999999998
+        },
+        {
+         "City": "North Charleston",
+         "Discount": 0,
+         "Sales": 284.25
+        },
+        {
+         "City": "Passaic",
+         "Discount": 0,
+         "Sales": 724.96
+        },
+        {
+         "City": "Omaha",
+         "Discount": 0,
+         "Sales": 3832.5699999999997
+        },
+        {
+         "City": "Belleville",
+         "Discount": 0,
+         "Sales": 1891.6
+        },
+        {
+         "City": "Garden City",
+         "Discount": 0,
+         "Sales": 312.38000000000005
+        },
+        {
+         "City": "Atlantic City",
+         "Discount": 0,
+         "Sales": 23.36
+        },
+        {
+         "City": "Coachella",
+         "Discount": 0,
+         "Sales": 163.55
+        },
+        {
+         "City": "Malden",
+         "Discount": 0,
+         "Sales": 228.38
+        },
+        {
+         "City": "Bossier City",
+         "Discount": 0,
+         "Sales": 1417.18
+        },
+        {
+         "City": "Sioux Falls",
+         "Discount": 0,
+         "Sales": 1137.42
+        },
+        {
+         "City": "East Point",
+         "Discount": 0,
+         "Sales": 268.4
+        },
+        {
+         "City": "New Castle",
+         "Discount": 0,
+         "Sales": 84.61
+        },
+        {
+         "City": "Southaven",
+         "Discount": 0,
+         "Sales": 1455.39
+        },
+        {
+         "City": "Andover",
+         "Discount": 0,
+         "Sales": 435.85
+        },
+        {
+         "City": "Bangor",
+         "Discount": 0,
+         "Sales": 1164.45
+        },
+        {
+         "City": "Little Rock",
+         "Discount": 0,
+         "Sales": 2678.4200000000005
+        },
+        {
+         "City": "Cottage Grove",
+         "Discount": 0,
+         "Sales": 144.35999999999999
+        },
+        {
+         "City": "Morristown",
+         "Discount": 0,
+         "Sales": 5033.099999999999
+        },
+        {
+         "City": "Urbandale",
+         "Discount": 0,
+         "Sales": 149.12
+        },
+        {
+         "City": "Saint Louis",
+         "Discount": 0,
+         "Sales": 285.96000000000004
+        },
+        {
+         "City": "Moorhead",
+         "Discount": 0,
+         "Sales": 543.86
+        },
+        {
+         "City": "Waynesboro",
+         "Discount": 0,
+         "Sales": 3058.7699999999995
+        },
+        {
+         "City": "Perth Amboy",
+         "Discount": 0,
+         "Sales": 804.0999999999999
+        },
+        {
+         "City": "Bozeman",
+         "Discount": 0,
+         "Sales": 43.66
+        },
+        {
+         "City": "Lakeville",
+         "Discount": 0,
+         "Sales": 4260.95
+        },
+        {
+         "City": "Saint Paul",
+         "Discount": 0,
+         "Sales": 192.82999999999998
+        },
+        {
+         "City": "Laurel",
+         "Discount": 0,
+         "Sales": 152.59
+        },
+        {
+         "City": "Leominster",
+         "Discount": 0,
+         "Sales": 217.49
+        },
+        {
+         "City": "Chesapeake",
+         "Discount": 0,
+         "Sales": 4740.5
+        },
+        {
+         "City": "Oklahoma City",
+         "Discount": 0,
+         "Sales": 5707.02
+        },
+        {
+         "City": "Paterson",
+         "Discount": 0,
+         "Sales": 2243.2100000000005
+        },
+        {
+         "City": "Lodi",
+         "Discount": 0,
+         "Sales": 136.98
+        },
+        {
+         "City": "San Luis Obispo",
+         "Discount": 0,
+         "Sales": 3.62
+        },
+        {
+         "City": "Coon Rapids",
+         "Discount": 0,
+         "Sales": 503.13
+        },
+        {
+         "City": "Charlottesville",
+         "Discount": 0,
+         "Sales": 102.60999999999999
+        },
+        {
+         "City": "Springdale",
+         "Discount": 0,
+         "Sales": 4.3
+        },
+        {
+         "City": "East Orange",
+         "Discount": 0,
+         "Sales": 377.27
+        },
+        {
+         "City": "Hagerstown",
+         "Discount": 0,
+         "Sales": 43.8
+        },
+        {
+         "City": "Aberdeen",
+         "Discount": 0,
+         "Sales": 25.5
+        },
+        {
+         "City": "Pine Bluff",
+         "Discount": 0,
+         "Sales": 212.91
+        },
+        {
+         "City": "South Bend",
+         "Discount": 0,
+         "Sales": 1238.3300000000002
+        },
+        {
+         "City": "Plainfield",
+         "Discount": 0,
+         "Sales": 4526.85
+        },
+        {
+         "City": "Rochester Hills",
+         "Discount": 0,
+         "Sales": 132.52
+        },
+        {
+         "City": "Minneapolis",
+         "Discount": 0,
+         "Sales": 6683.67
+        },
+        {
+         "City": "Eagan",
+         "Discount": 0,
+         "Sales": 214.28
+        },
+        {
+         "City": "Fremont",
+         "Discount": 0,
+         "Sales": 1039.05
+        },
+        {
+         "City": "Madison",
+         "Discount": 0,
+         "Sales": 5300.1500000000015
+        }
+       ],
+
+    "discountProfitData": [
+        {
+         "City": "New York City",
+         "Profit\/Quantity": 13712.928599999992,
+         "Discount": 0.05270425776754891
+        },
+        {
+         "City": "Los Angeles",
+         "Profit\/Quantity": 7882.6833999999935,
+         "Discount": 0.07216916780354707
+        },
+        {
+         "City": "Seattle",
+         "Profit\/Quantity": 7111.423599999993,
+         "Discount": 0.06539379474940335
+        },
+        {
+         "City": "San Francisco",
+         "Profit\/Quantity": 4784.686999999994,
+         "Discount": 0.06431451612903226
+        },
+        {
+         "City": "Lafayette",
+         "Profit\/Quantity": 2232.3571000000006,
+         "Discount": 0
+        },
+        {
+         "City": "Atlanta",
+         "Profit\/Quantity": 1993.5683000000006,
+         "Discount": 0
+        },
+        {
+         "City": "San Diego",
+         "Profit\/Quantity": 1712.8712999999996,
+         "Discount": 0.07666666666666667
+        },
+        {
+         "City": "Detroit",
+         "Profit\/Quantity": 1688.333099999999,
+         "Discount": 0.00392156862745098
+        },
+        {
+         "City": "Columbus",
+         "Profit\/Quantity": 1645.7731999999999,
+         "Discount": 0.1619718309859155
+        },
+        {
+         "City": "Columbia",
+         "Profit\/Quantity": 1635.6260000000007,
+         "Discount": 0.060526315789473685
+        },
+        {
+         "City": "Springfield",
+         "Profit\/Quantity": 1347.1935,
+         "Discount": 0.1292207792207792
+        },
+        {
+         "City": "Newark",
+         "Profit\/Quantity": 1274.2414,
+         "Discount": 0.08681318681318681
+        },
+        {
+         "City": "Henderson",
+         "Profit\/Quantity": 1197.1692,
+         "Discount": 0.00392156862745098
+        },
+        {
+         "City": "Jackson",
+         "Profit\/Quantity": 1168.7050000000002,
+         "Discount": 0.03037974683544304
+        },
+        {
+         "City": "Richmond",
+         "Profit\/Quantity": 1087.3011999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Arlington",
+         "Profit\/Quantity": 1018.9326999999998,
+         "Discount": 0.15714285714285714
+        },
+        {
+         "City": "Providence",
+         "Profit\/Quantity": 989.3575999999998,
+         "Discount": 0.010344827586206896
+        },
+        {
+         "City": "Rochester",
+         "Profit\/Quantity": 843.2493,
+         "Discount": 0.03529411764705882
+        },
+        {
+         "City": "Lawrence",
+         "Profit\/Quantity": 817.3120000000002,
+         "Discount": 0.007142857142857143
+        },
+        {
+         "City": "Midland",
+         "Profit\/Quantity": 787.3863,
+         "Discount": 0.008333333333333333
+        },
+        {
+         "City": "Indianapolis",
+         "Profit\/Quantity": 773.9875000000002,
+         "Discount": 0
+        },
+        {
+         "City": "Roswell",
+         "Profit\/Quantity": 697.732,
+         "Discount": 0
+        },
+        {
+         "City": "Minneapolis",
+         "Profit\/Quantity": 646.3663,
+         "Discount": 0
+        },
+        {
+         "City": "Fayetteville",
+         "Profit\/Quantity": 630.6693,
+         "Discount": 0.15789473684210525
+        },
+        {
+         "City": "Des Moines",
+         "Profit\/Quantity": 612.0385,
+         "Discount": 0.031578947368421054
+        },
+        {
+         "City": "Milwaukee",
+         "Profit\/Quantity": 590.5156,
+         "Discount": 0
+        },
+        {
+         "City": "Morristown",
+         "Profit\/Quantity": 578.6082,
+         "Discount": 0
+        },
+        {
+         "City": "Roseville",
+         "Profit\/Quantity": 563.3130000000001,
+         "Discount": 0.015384615384615385
+        },
+        {
+         "City": "Hampton",
+         "Profit\/Quantity": 554.4135,
+         "Discount": 0
+        },
+        {
+         "City": "Yonkers",
+         "Profit\/Quantity": 518.3176000000001,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Lakewood",
+         "Profit\/Quantity": 517.8477999999999,
+         "Discount": 0.11666666666666667
+        },
+        {
+         "City": "Louisville",
+         "Profit\/Quantity": 503.17710000000005,
+         "Discount": 0.13333333333333333
+        },
+        {
+         "City": "Clinton",
+         "Profit\/Quantity": 440.8214000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Inglewood",
+         "Profit\/Quantity": 440.1346,
+         "Discount": 0.05333333333333334
+        },
+        {
+         "City": "Long Beach",
+         "Profit\/Quantity": 425.9392999999999,
+         "Discount": 0.058333333333333334
+        },
+        {
+         "City": "Sacramento",
+         "Profit\/Quantity": 417.83439999999996,
+         "Discount": 0.12307692307692308
+        },
+        {
+         "City": "Trenton",
+         "Profit\/Quantity": 399.55449999999996,
+         "Discount": 0.007692307692307693
+        },
+        {
+         "City": "Anaheim",
+         "Profit\/Quantity": 395.6815000000001,
+         "Discount": 0.08148148148148149
+        },
+        {
+         "City": "Baltimore",
+         "Profit\/Quantity": 393.49340000000007,
+         "Discount": 0.007317073170731707
+        },
+        {
+         "City": "Plainfield",
+         "Profit\/Quantity": 389.92679999999996,
+         "Discount": 0
+        },
+        {
+         "City": "San Jose",
+         "Profit\/Quantity": 382.44089999999994,
+         "Discount": 0.07195121951219513
+        },
+        {
+         "City": "Oklahoma City",
+         "Profit\/Quantity": 372.16319999999996,
+         "Discount": 0
+        },
+        {
+         "City": "Chesapeake",
+         "Profit\/Quantity": 365.7369,
+         "Discount": 0
+        },
+        {
+         "City": "Wilmington",
+         "Profit\/Quantity": 354.082,
+         "Discount": 0.08529411764705883
+        },
+        {
+         "City": "Virginia Beach",
+         "Profit\/Quantity": 342.9345,
+         "Discount": 0
+        },
+        {
+         "City": "Everett",
+         "Profit\/Quantity": 340.5224999999999,
+         "Discount": 0.023809523809523808
+        },
+        {
+         "City": "Fairfield",
+         "Profit\/Quantity": 332.4882,
+         "Discount": 0.1225
+        },
+        {
+         "City": "Independence",
+         "Profit\/Quantity": 325.221,
+         "Discount": 0
+        },
+        {
+         "City": "Franklin",
+         "Profit\/Quantity": 319.2751000000001,
+         "Discount": 0.12285714285714286
+        },
+        {
+         "City": "Tulsa",
+         "Profit\/Quantity": 293.0622,
+         "Discount": 0
+        },
+        {
+         "City": "Buffalo",
+         "Profit\/Quantity": 289.9411,
+         "Discount": 0.05555555555555556
+        },
+        {
+         "City": "Omaha",
+         "Profit\/Quantity": 284.0307,
+         "Discount": 0
+        },
+        {
+         "City": "Little Rock",
+         "Profit\/Quantity": 280.5451,
+         "Discount": 0
+        },
+        {
+         "City": "Kenosha",
+         "Profit\/Quantity": 276.0816,
+         "Discount": 0
+        },
+        {
+         "City": "Lowell",
+         "Profit\/Quantity": 262.4577,
+         "Discount": 0
+        },
+        {
+         "City": "Warwick",
+         "Profit\/Quantity": 260.28229999999996,
+         "Discount": 0
+        },
+        {
+         "City": "Lakeville",
+         "Profit\/Quantity": 254.38410000000002,
+         "Discount": 0
+        },
+        {
+         "City": "Waynesboro",
+         "Profit\/Quantity": 249.8084,
+         "Discount": 0
+        },
+        {
+         "City": "Smyrna",
+         "Profit\/Quantity": 244.5117,
+         "Discount": 0.07391304347826087
+        },
+        {
+         "City": "Monroe",
+         "Profit\/Quantity": 243.0536,
+         "Discount": 0.08571428571428572
+        },
+        {
+         "City": "Auburn",
+         "Profit\/Quantity": 241.90559999999994,
+         "Discount": 0.008333333333333333
+        },
+        {
+         "City": "Dover",
+         "Profit\/Quantity": 234.7403,
+         "Discount": 0.015789473684210527
+        },
+        {
+         "City": "Jacksonville",
+         "Profit\/Quantity": 232.95659999999998,
+         "Discount": 0.276271186440678
+        },
+        {
+         "City": "Madison",
+         "Profit\/Quantity": 229.0009,
+         "Discount": 0
+        },
+        {
+         "City": "Fresno",
+         "Profit\/Quantity": 225.72399999999996,
+         "Discount": 0.108
+        },
+        {
+         "City": "Paterson",
+         "Profit\/Quantity": 223.95959999999997,
+         "Discount": 0
+        },
+        {
+         "City": "Washington",
+         "Profit\/Quantity": 216.4672,
+         "Discount": 0
+        },
+        {
+         "City": "Brentwood",
+         "Profit\/Quantity": 214.7269,
+         "Discount": 0.0625
+        },
+        {
+         "City": "Florence",
+         "Profit\/Quantity": 211.26509999999996,
+         "Discount": 0
+        },
+        {
+         "City": "Oakland",
+         "Profit\/Quantity": 208.10879999999997,
+         "Discount": 0.07200000000000001
+        },
+        {
+         "City": "Jamestown",
+         "Profit\/Quantity": 204.2505,
+         "Discount": 0
+        },
+        {
+         "City": "Mobile",
+         "Profit\/Quantity": 203.7726,
+         "Discount": 0
+        },
+        {
+         "City": "Oceanside",
+         "Profit\/Quantity": 199.17749999999998,
+         "Discount": 0.05
+        },
+        {
+         "City": "Huntington Beach",
+         "Profit\/Quantity": 181.8127,
+         "Discount": 0.03333333333333333
+        },
+        {
+         "City": "Maple Grove",
+         "Profit\/Quantity": 180.4914,
+         "Discount": 0
+        },
+        {
+         "City": "Orlando",
+         "Profit\/Quantity": 177.68009999999998,
+         "Discount": 0.2909090909090909
+        },
+        {
+         "City": "North Las Vegas",
+         "Profit\/Quantity": 175.2939,
+         "Discount": 0.02666666666666667
+        },
+        {
+         "City": "Salem",
+         "Profit\/Quantity": 170.25170000000003,
+         "Discount": 0.1763157894736842
+        },
+        {
+         "City": "Watertown",
+         "Profit\/Quantity": 169.0861,
+         "Discount": 0.07777777777777778
+        },
+        {
+         "City": "Cranston",
+         "Profit\/Quantity": 158.66830000000002,
+         "Discount": 0.02142857142857143
+        },
+        {
+         "City": "Mount Vernon",
+         "Profit\/Quantity": 158.0129,
+         "Discount": 0.025
+        },
+        {
+         "City": "Manchester",
+         "Profit\/Quantity": 156.3701,
+         "Discount": 0
+        },
+        {
+         "City": "Orem",
+         "Profit\/Quantity": 154.188,
+         "Discount": 0.022222222222222223
+        },
+        {
+         "City": "Decatur",
+         "Profit\/Quantity": 154.07700000000003,
+         "Discount": 0.178125
+        },
+        {
+         "City": "New Rochelle",
+         "Profit\/Quantity": 153.33759999999998,
+         "Discount": 0.05555555555555556
+        },
+        {
+         "City": "Charlotte",
+         "Profit\/Quantity": 151.39719999999997,
+         "Discount": 0.2872340425531915
+        },
+        {
+         "City": "Hempstead",
+         "Profit\/Quantity": 150.73710000000003,
+         "Discount": 0.09090909090909091
+        },
+        {
+         "City": "Santa Ana",
+         "Profit\/Quantity": 149.191,
+         "Discount": 0.03636363636363637
+        },
+        {
+         "City": "Pleasant Grove",
+         "Profit\/Quantity": 144.7267,
+         "Discount": 0.08571428571428572
+        },
+        {
+         "City": "Jonesboro",
+         "Profit\/Quantity": 143.1917,
+         "Discount": 0
+        },
+        {
+         "City": "Redlands",
+         "Profit\/Quantity": 142.46410000000003,
+         "Discount": 0.046875
+        },
+        {
+         "City": "Eau Claire",
+         "Profit\/Quantity": 142.05810000000002,
+         "Discount": 0
+        },
+        {
+         "City": "Riverside",
+         "Profit\/Quantity": 141.2781,
+         "Discount": 0.046153846153846156
+        },
+        {
+         "City": "Southaven",
+         "Profit\/Quantity": 140.78119999999998,
+         "Discount": 0
+        },
+        {
+         "City": "Concord",
+         "Profit\/Quantity": 140.37320000000005,
+         "Discount": 0.08870967741935484
+        },
+        {
+         "City": "Suffolk",
+         "Profit\/Quantity": 138.81099999999998,
+         "Discount": 0
+        },
+        {
+         "City": "Lansing",
+         "Profit\/Quantity": 137.7223,
+         "Discount": 0
+        },
+        {
+         "City": "Georgetown",
+         "Profit\/Quantity": 136.9797,
+         "Discount": 0
+        },
+        {
+         "City": "Superior",
+         "Profit\/Quantity": 135.6966,
+         "Discount": 0
+        },
+        {
+         "City": "Kent",
+         "Profit\/Quantity": 135.36610000000002,
+         "Discount": 0.13333333333333333
+        },
+        {
+         "City": "Port Arthur",
+         "Profit\/Quantity": 134.4437,
+         "Discount": 0.22
+        },
+        {
+         "City": "Waterbury",
+         "Profit\/Quantity": 131.9344,
+         "Discount": 0
+        },
+        {
+         "City": "Westminster",
+         "Profit\/Quantity": 130.33100000000002,
+         "Discount": 0.08
+        },
+        {
+         "City": "Hackensack",
+         "Profit\/Quantity": 126.7893,
+         "Discount": 0
+        },
+        {
+         "City": "Westland",
+         "Profit\/Quantity": 126.43629999999999,
+         "Discount": 0.007692307692307693
+        },
+        {
+         "City": "Hattiesburg",
+         "Profit\/Quantity": 125.98479999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Albuquerque",
+         "Profit\/Quantity": 124.7491,
+         "Discount": 0.05714285714285715
+        },
+        {
+         "City": "Sioux Falls",
+         "Profit\/Quantity": 124.05719999999998,
+         "Discount": 0
+        },
+        {
+         "City": "Provo",
+         "Profit\/Quantity": 121.61729999999999,
+         "Discount": 0.060000000000000005
+        },
+        {
+         "City": "Raleigh",
+         "Profit\/Quantity": 120.64680000000001,
+         "Discount": 0.2714285714285714
+        },
+        {
+         "City": "Edmonds",
+         "Profit\/Quantity": 119.5836,
+         "Discount": 0.046153846153846156
+        },
+        {
+         "City": "Meriden",
+         "Profit\/Quantity": 118.73060000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Beverly",
+         "Profit\/Quantity": 117.52250000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Denver",
+         "Profit\/Quantity": 116.31300000000002,
+         "Discount": 0.245
+        },
+        {
+         "City": "Sandy Springs",
+         "Profit\/Quantity": 116.2067,
+         "Discount": 0
+        },
+        {
+         "City": "Saint Charles",
+         "Profit\/Quantity": 115.49680000000002,
+         "Discount": 0.1625
+        },
+        {
+         "City": "Torrance",
+         "Profit\/Quantity": 111.7824,
+         "Discount": 0.15000000000000002
+        },
+        {
+         "City": "Appleton",
+         "Profit\/Quantity": 110.36189999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Athens",
+         "Profit\/Quantity": 110.1859,
+         "Discount": 0
+        },
+        {
+         "City": "Lake Forest",
+         "Profit\/Quantity": 107.7475,
+         "Discount": 0.03333333333333333
+        },
+        {
+         "City": "Harrisonburg",
+         "Profit\/Quantity": 105.4807,
+         "Discount": 0
+        },
+        {
+         "City": "Greenwood",
+         "Profit\/Quantity": 103.8226,
+         "Discount": 0
+        },
+        {
+         "City": "Saint Cloud",
+         "Profit\/Quantity": 103.62960000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Lakeland",
+         "Profit\/Quantity": 103.0664,
+         "Discount": 0.25
+        },
+        {
+         "City": "Boise",
+         "Profit\/Quantity": 101.4186,
+         "Discount": 0.1
+        },
+        {
+         "City": "Belleville",
+         "Profit\/Quantity": 100.38600000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Quincy",
+         "Profit\/Quantity": 98.58950000000002,
+         "Discount": 0.195
+        },
+        {
+         "City": "Bangor",
+         "Profit\/Quantity": 95.7452,
+         "Discount": 0
+        },
+        {
+         "City": "Olathe",
+         "Profit\/Quantity": 94.743,
+         "Discount": 0
+        },
+        {
+         "City": "Broken Arrow",
+         "Profit\/Quantity": 94.3966,
+         "Discount": 0
+        },
+        {
+         "City": "Marietta",
+         "Profit\/Quantity": 93.1818,
+         "Discount": 0
+        },
+        {
+         "City": "Las Vegas",
+         "Profit\/Quantity": 92.8044,
+         "Discount": 0.07692307692307693
+        },
+        {
+         "City": "Newport News",
+         "Profit\/Quantity": 92.14609999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Costa Mesa",
+         "Profit\/Quantity": 92.1004,
+         "Discount": 0.05454545454545455
+        },
+        {
+         "City": "Wichita",
+         "Profit\/Quantity": 91.14800000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Lehi",
+         "Profit\/Quantity": 90.5562,
+         "Discount": 0.1
+        },
+        {
+         "City": "Montgomery",
+         "Profit\/Quantity": 90.0858,
+         "Discount": 0
+        },
+        {
+         "City": "Dearborn",
+         "Profit\/Quantity": 89.4223,
+         "Discount": 0
+        },
+        {
+         "City": "Alexandria",
+         "Profit\/Quantity": 88.2279,
+         "Discount": 0
+        },
+        {
+         "City": "Twin Falls",
+         "Profit\/Quantity": 88.1687,
+         "Discount": 0.1
+        },
+        {
+         "City": "Grand Rapids",
+         "Profit\/Quantity": 84.85930000000002,
+         "Discount": 0
+        },
+        {
+         "City": "Santa Barbara",
+         "Profit\/Quantity": 84.79620000000001,
+         "Discount": 0.07500000000000001
+        },
+        {
+         "City": "Fremont",
+         "Profit\/Quantity": 83.8546,
+         "Discount": 0
+        },
+        {
+         "City": "East Point",
+         "Profit\/Quantity": 83.79860000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Perth Amboy",
+         "Profit\/Quantity": 83.021,
+         "Discount": 0
+        },
+        {
+         "City": "Vallejo",
+         "Profit\/Quantity": 81.5011,
+         "Discount": 0.1
+        },
+        {
+         "City": "Dearborn Heights",
+         "Profit\/Quantity": 80.8835,
+         "Discount": 0
+        },
+        {
+         "City": "Huntsville",
+         "Profit\/Quantity": 80.31870000000004,
+         "Discount": 0.274
+        },
+        {
+         "City": "Revere",
+         "Profit\/Quantity": 78.4,
+         "Discount": 0
+        },
+        {
+         "City": "Cambridge",
+         "Profit\/Quantity": 77.47930000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Missoula",
+         "Profit\/Quantity": 76.2475,
+         "Discount": 0.2
+        },
+        {
+         "City": "Bowling Green",
+         "Profit\/Quantity": 74.8687,
+         "Discount": 0.23333333333333334
+        },
+        {
+         "City": "South Bend",
+         "Profit\/Quantity": 74.6831,
+         "Discount": 0
+        },
+        {
+         "City": "Salt Lake City",
+         "Profit\/Quantity": 74.4743,
+         "Discount": 0.07500000000000001
+        },
+        {
+         "City": "Pasco",
+         "Profit\/Quantity": 72.8762,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Noblesville",
+         "Profit\/Quantity": 72.5898,
+         "Discount": 0
+        },
+        {
+         "City": "La Crosse",
+         "Profit\/Quantity": 72.3051,
+         "Discount": 0
+        },
+        {
+         "City": "Overland Park",
+         "Profit\/Quantity": 71.5957,
+         "Discount": 0
+        },
+        {
+         "City": "Bakersfield",
+         "Profit\/Quantity": 69.5746,
+         "Discount": 0.096875
+        },
+        {
+         "City": "San Gabriel",
+         "Profit\/Quantity": 68.64689999999999,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Farmington",
+         "Profit\/Quantity": 67.5195,
+         "Discount": 0
+        },
+        {
+         "City": "Utica",
+         "Profit\/Quantity": 66.0607,
+         "Discount": 0.05
+        },
+        {
+         "City": "Apple Valley",
+         "Profit\/Quantity": 64.6725,
+         "Discount": 0.061111111111111116
+        },
+        {
+         "City": "Chandler",
+         "Profit\/Quantity": 64.5606,
+         "Discount": 0.2
+        },
+        {
+         "City": "Bellingham",
+         "Profit\/Quantity": 64.5097,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Rome",
+         "Profit\/Quantity": 63.8344,
+         "Discount": 0.016666666666666666
+        },
+        {
+         "City": "Bossier City",
+         "Profit\/Quantity": 63.50220000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Passaic",
+         "Profit\/Quantity": 62.8939,
+         "Discount": 0
+        },
+        {
+         "City": "Woodbury",
+         "Profit\/Quantity": 62.7054,
+         "Discount": 0
+        },
+        {
+         "City": "Oak Park",
+         "Profit\/Quantity": 62.3584,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Middletown",
+         "Profit\/Quantity": 62.323899999999995,
+         "Discount": 0
+        },
+        {
+         "City": "Lawton",
+         "Profit\/Quantity": 61.9592,
+         "Discount": 0
+        },
+        {
+         "City": "Gilbert",
+         "Profit\/Quantity": 60.5325,
+         "Discount": 0.2
+        },
+        {
+         "City": "Chula Vista",
+         "Profit\/Quantity": 60.3954,
+         "Discount": 0
+        },
+        {
+         "City": "Moreno Valley",
+         "Profit\/Quantity": 60.3011,
+         "Discount": 0.02
+        },
+        {
+         "City": "Dubuque",
+         "Profit\/Quantity": 60.278400000000005,
+         "Discount": 0
+        },
+        {
+         "City": "Fargo",
+         "Profit\/Quantity": 59.7485,
+         "Discount": 0
+        },
+        {
+         "City": "Rockville",
+         "Profit\/Quantity": 59.3615,
+         "Discount": 0
+        },
+        {
+         "City": "Manteca",
+         "Profit\/Quantity": 58.659800000000004,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Troy",
+         "Profit\/Quantity": 57.77059999999999,
+         "Discount": 0.1875
+        },
+        {
+         "City": "Mission Viejo",
+         "Profit\/Quantity": 56.60269999999999,
+         "Discount": 0.03
+        },
+        {
+         "City": "Westfield",
+         "Profit\/Quantity": 55.3838,
+         "Discount": 0
+        },
+        {
+         "City": "Tempe",
+         "Profit\/Quantity": 55.3438,
+         "Discount": 0.23846153846153847
+        },
+        {
+         "City": "Norman",
+         "Profit\/Quantity": 55.151399999999995,
+         "Discount": 0
+        },
+        {
+         "City": "Burbank",
+         "Profit\/Quantity": 54.9456,
+         "Discount": 0
+        },
+        {
+         "City": "Fort Worth",
+         "Profit\/Quantity": 52.62630000000001,
+         "Discount": 0.4053846153846154
+        },
+        {
+         "City": "Deltona",
+         "Profit\/Quantity": 51.982800000000005,
+         "Discount": 0.3
+        },
+        {
+         "City": "Stockton",
+         "Profit\/Quantity": 51.278499999999994,
+         "Discount": 0.1
+        },
+        {
+         "City": "Cincinnati",
+         "Profit\/Quantity": 51.2762,
+         "Discount": 0.325
+        },
+        {
+         "City": "Tampa",
+         "Profit\/Quantity": 50.59829999999998,
+         "Discount": 0.3212121212121212
+        },
+        {
+         "City": "Great Falls",
+         "Profit\/Quantity": 50.5167,
+         "Discount": 0.05714285714285715
+        },
+        {
+         "City": "Garden City",
+         "Profit\/Quantity": 50.2083,
+         "Discount": 0
+        },
+        {
+         "City": "Milford",
+         "Profit\/Quantity": 49.705999999999996,
+         "Discount": 0
+        },
+        {
+         "City": "Muskogee",
+         "Profit\/Quantity": 48.884800000000006,
+         "Discount": 0
+        },
+        {
+         "City": "Oxnard",
+         "Profit\/Quantity": 48.176500000000004,
+         "Discount": 0.05
+        },
+        {
+         "City": "Glendale",
+         "Profit\/Quantity": 47.820200000000014,
+         "Discount": 0.26521739130434785
+        },
+        {
+         "City": "Danville",
+         "Profit\/Quantity": 47.543099999999995,
+         "Discount": 0.03333333333333333
+        },
+        {
+         "City": "Freeport",
+         "Profit\/Quantity": 47.1208,
+         "Discount": 0.14444444444444446
+        },
+        {
+         "City": "Gaithersburg",
+         "Profit\/Quantity": 46.3927,
+         "Discount": 0
+        },
+        {
+         "City": "Camarillo",
+         "Profit\/Quantity": 46.316,
+         "Discount": 0.11
+        },
+        {
+         "City": "Hesperia",
+         "Profit\/Quantity": 46.2515,
+         "Discount": 0.1375
+        },
+        {
+         "City": "Ann Arbor",
+         "Profit\/Quantity": 46.051,
+         "Discount": 0.02
+        },
+        {
+         "City": "Coachella",
+         "Profit\/Quantity": 45.5846,
+         "Discount": 0
+        },
+        {
+         "City": "Carlsbad",
+         "Profit\/Quantity": 45.429700000000004,
+         "Discount": 0.07272727272727274
+        },
+        {
+         "City": "Olympia",
+         "Profit\/Quantity": 44.827999999999996,
+         "Discount": 0.08
+        },
+        {
+         "City": "Green Bay",
+         "Profit\/Quantity": 42.9102,
+         "Discount": 0
+        },
+        {
+         "City": "Brownsville",
+         "Profit\/Quantity": 42.3962,
+         "Discount": 0.21666666666666667
+        },
+        {
+         "City": "Kissimmee",
+         "Profit\/Quantity": 42.2991,
+         "Discount": 0.2
+        },
+        {
+         "City": "Murray",
+         "Profit\/Quantity": 41.750600000000006,
+         "Discount": 0.04
+        },
+        {
+         "City": "Chico",
+         "Profit\/Quantity": 41.0188,
+         "Discount": 0.07272727272727274
+        },
+        {
+         "City": "Redondo Beach",
+         "Profit\/Quantity": 40.8639,
+         "Discount": 0.11875000000000001
+        },
+        {
+         "City": "Coon Rapids",
+         "Profit\/Quantity": 40.6926,
+         "Discount": 0
+        },
+        {
+         "City": "Pocatello",
+         "Profit\/Quantity": 40.15090000000001,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Lubbock",
+         "Profit\/Quantity": 39.9534,
+         "Discount": 0.4666666666666667
+        },
+        {
+         "City": "Encinitas",
+         "Profit\/Quantity": 39.923,
+         "Discount": 0.15000000000000002
+        },
+        {
+         "City": "East Orange",
+         "Profit\/Quantity": 38.6627,
+         "Discount": 0
+        },
+        {
+         "City": "Edmond",
+         "Profit\/Quantity": 37.18319999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Wheeling",
+         "Profit\/Quantity": 36.9448,
+         "Discount": 0.16
+        },
+        {
+         "City": "Visalia",
+         "Profit\/Quantity": 36.9391,
+         "Discount": 0
+        },
+        {
+         "City": "Saint Peters",
+         "Profit\/Quantity": 36.6009,
+         "Discount": 0
+        },
+        {
+         "City": "Spokane",
+         "Profit\/Quantity": 36.512,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "La Porte",
+         "Profit\/Quantity": 34.324,
+         "Discount": 0.14
+        },
+        {
+         "City": "La Mesa",
+         "Profit\/Quantity": 34.2762,
+         "Discount": 0.1
+        },
+        {
+         "City": "Gresham",
+         "Profit\/Quantity": 34.0777,
+         "Discount": 0.2
+        },
+        {
+         "City": "Macon",
+         "Profit\/Quantity": 33.9545,
+         "Discount": 0
+        },
+        {
+         "City": "Bloomington",
+         "Profit\/Quantity": 33.3928,
+         "Discount": 0.13846153846153847
+        },
+        {
+         "City": "West Jordan",
+         "Profit\/Quantity": 32.0691,
+         "Discount": 0.04
+        },
+        {
+         "City": "Salinas",
+         "Profit\/Quantity": 32.0088,
+         "Discount": 0.08571428571428572
+        },
+        {
+         "City": "Eagan",
+         "Profit\/Quantity": 31.9738,
+         "Discount": 0
+        },
+        {
+         "City": "Durham",
+         "Profit\/Quantity": 31.973000000000003,
+         "Discount": 0.25555555555555554
+        },
+        {
+         "City": "Rio Rancho",
+         "Profit\/Quantity": 31.5766,
+         "Discount": 0.2
+        },
+        {
+         "City": "Murrieta",
+         "Profit\/Quantity": 30.6945,
+         "Discount": 0
+        },
+        {
+         "City": "Park Ridge",
+         "Profit\/Quantity": 30.4546,
+         "Discount": 0.2
+        },
+        {
+         "City": "Holland",
+         "Profit\/Quantity": 30.0444,
+         "Discount": 0
+        },
+        {
+         "City": "Andover",
+         "Profit\/Quantity": 29.865699999999997,
+         "Discount": 0
+        },
+        {
+         "City": "Meridian",
+         "Profit\/Quantity": 29.7566,
+         "Discount": 0.05
+        },
+        {
+         "City": "Arvada",
+         "Profit\/Quantity": 29.5466,
+         "Discount": 0.2
+        },
+        {
+         "City": "Lake Charles",
+         "Profit\/Quantity": 29.334,
+         "Discount": 0
+        },
+        {
+         "City": "Saginaw",
+         "Profit\/Quantity": 28.712,
+         "Discount": 0
+        },
+        {
+         "City": "Texarkana",
+         "Profit\/Quantity": 27.8322,
+         "Discount": 0
+        },
+        {
+         "City": "Thousand Oaks",
+         "Profit\/Quantity": 27.5594,
+         "Discount": 0.04
+        },
+        {
+         "City": "New Albany",
+         "Profit\/Quantity": 27.4595,
+         "Discount": 0
+        },
+        {
+         "City": "Thornton",
+         "Profit\/Quantity": 27.3389,
+         "Discount": 0.2
+        },
+        {
+         "City": "Cedar Rapids",
+         "Profit\/Quantity": 26.912000000000003,
+         "Discount": 0
+        },
+        {
+         "City": "Lindenhurst",
+         "Profit\/Quantity": 26.6304,
+         "Discount": 0
+        },
+        {
+         "City": "Orange",
+         "Profit\/Quantity": 25.8234,
+         "Discount": 0
+        },
+        {
+         "City": "Woonsocket",
+         "Profit\/Quantity": 25.4333,
+         "Discount": 0
+        },
+        {
+         "City": "El Cajon",
+         "Profit\/Quantity": 25.1338,
+         "Discount": 0.2
+        },
+        {
+         "City": "Cheyenne",
+         "Profit\/Quantity": 25.049,
+         "Discount": 0.2
+        },
+        {
+         "City": "Sunnyvale",
+         "Profit\/Quantity": 24.774699999999996,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Saint Petersburg",
+         "Profit\/Quantity": 24.726800000000004,
+         "Discount": 0.27692307692307694
+        },
+        {
+         "City": "Vancouver",
+         "Profit\/Quantity": 24.5306,
+         "Discount": 0.04
+        },
+        {
+         "City": "Pomona",
+         "Profit\/Quantity": 22.976200000000002,
+         "Discount": 0.028571428571428574
+        },
+        {
+         "City": "Hollywood",
+         "Profit\/Quantity": 22.839199999999998,
+         "Discount": 0.2909090909090909
+        },
+        {
+         "City": "Canton",
+         "Profit\/Quantity": 22.813200000000002,
+         "Discount": 0
+        },
+        {
+         "City": "Boynton Beach",
+         "Profit\/Quantity": 22.774699999999996,
+         "Discount": 0.25
+        },
+        {
+         "City": "Temecula",
+         "Profit\/Quantity": 22.6665,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Conway",
+         "Profit\/Quantity": 22.647,
+         "Discount": 0
+        },
+        {
+         "City": "Marlborough",
+         "Profit\/Quantity": 22.5356,
+         "Discount": 0
+        },
+        {
+         "City": "Rapid City",
+         "Profit\/Quantity": 22.3842,
+         "Discount": 0
+        },
+        {
+         "City": "Chattanooga",
+         "Profit\/Quantity": 22.288999999999998,
+         "Discount": 0.33
+        },
+        {
+         "City": "Taylor",
+         "Profit\/Quantity": 21.9585,
+         "Discount": 0
+        },
+        {
+         "City": "Rancho Cucamonga",
+         "Profit\/Quantity": 21.912599999999998,
+         "Discount": 0.05
+        },
+        {
+         "City": "Covington",
+         "Profit\/Quantity": 21.861,
+         "Discount": 0
+        },
+        {
+         "City": "Gastonia",
+         "Profit\/Quantity": 21.5096,
+         "Discount": 0.2
+        },
+        {
+         "City": "Tallahassee",
+         "Profit\/Quantity": 21.378600000000002,
+         "Discount": 0.27647058823529413
+        },
+        {
+         "City": "Moorhead",
+         "Profit\/Quantity": 21.273500000000002,
+         "Discount": 0
+        },
+        {
+         "City": "Lorain",
+         "Profit\/Quantity": 20.9803,
+         "Discount": 0.2875
+        },
+        {
+         "City": "Clifton",
+         "Profit\/Quantity": 20.8236,
+         "Discount": 0
+        },
+        {
+         "City": "Leominster",
+         "Profit\/Quantity": 20.7564,
+         "Discount": 0
+        },
+        {
+         "City": "Pembroke Pines",
+         "Profit\/Quantity": 20.6777,
+         "Discount": 0.3153846153846154
+        },
+        {
+         "City": "Santa Clara",
+         "Profit\/Quantity": 20.447,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Johnson City",
+         "Profit\/Quantity": 20.365799999999997,
+         "Discount": 0.325
+        },
+        {
+         "City": "Tuscaloosa",
+         "Profit\/Quantity": 19.962200000000003,
+         "Discount": 0
+        },
+        {
+         "City": "Summerville",
+         "Profit\/Quantity": 19.6704,
+         "Discount": 0
+        },
+        {
+         "City": "Toledo",
+         "Profit\/Quantity": 19.649400000000004,
+         "Discount": 0.328
+        },
+        {
+         "City": "Wausau",
+         "Profit\/Quantity": 19.6476,
+         "Discount": 0
+        },
+        {
+         "City": "Saint Louis",
+         "Profit\/Quantity": 19.5764,
+         "Discount": 0
+        },
+        {
+         "City": "Gladstone",
+         "Profit\/Quantity": 19.5584,
+         "Discount": 0
+        },
+        {
+         "City": "Logan",
+         "Profit\/Quantity": 19.5494,
+         "Discount": 0.08
+        },
+        {
+         "City": "Lewiston",
+         "Profit\/Quantity": 19.4873,
+         "Discount": 0.05
+        },
+        {
+         "City": "Urbandale",
+         "Profit\/Quantity": 19.014200000000002,
+         "Discount": 0
+        },
+        {
+         "City": "Lebanon",
+         "Profit\/Quantity": 18.948500000000003,
+         "Discount": 0.2
+        },
+        {
+         "City": "Citrus Heights",
+         "Profit\/Quantity": 18.1146,
+         "Discount": 0
+        },
+        {
+         "City": "Bellevue",
+         "Profit\/Quantity": 17.746,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Broomfield",
+         "Profit\/Quantity": 17.7158,
+         "Discount": 0.4
+        },
+        {
+         "City": "Mount Pleasant",
+         "Profit\/Quantity": 17.6436,
+         "Discount": 0
+        },
+        {
+         "City": "Richardson",
+         "Profit\/Quantity": 17.6391,
+         "Discount": 0.2
+        },
+        {
+         "City": "Homestead",
+         "Profit\/Quantity": 17.357699999999998,
+         "Discount": 0.2
+        },
+        {
+         "City": "Laurel",
+         "Profit\/Quantity": 17.0387,
+         "Discount": 0
+        },
+        {
+         "City": "Reno",
+         "Profit\/Quantity": 17.0211,
+         "Discount": 0.1
+        },
+        {
+         "City": "Asheville",
+         "Profit\/Quantity": 16.965000000000007,
+         "Discount": 0.2714285714285714
+        },
+        {
+         "City": "Cary",
+         "Profit\/Quantity": 16.9572,
+         "Discount": 0.2
+        },
+        {
+         "City": "Pearland",
+         "Profit\/Quantity": 16.6665,
+         "Discount": 0.4
+        },
+        {
+         "City": "Hot Springs",
+         "Profit\/Quantity": 16.5702,
+         "Discount": 0
+        },
+        {
+         "City": "Pine Bluff",
+         "Profit\/Quantity": 15.907200000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Warner Robins",
+         "Profit\/Quantity": 15.9028,
+         "Discount": 0
+        },
+        {
+         "City": "Woodland",
+         "Profit\/Quantity": 15.6958,
+         "Discount": 0.13333333333333333
+        },
+        {
+         "City": "Longview",
+         "Profit\/Quantity": 15.618099999999998,
+         "Discount": 0
+        },
+        {
+         "City": "Cottage Grove",
+         "Profit\/Quantity": 15.4184,
+         "Discount": 0
+        },
+        {
+         "City": "San Bernardino",
+         "Profit\/Quantity": 15.3422,
+         "Discount": 0.09375
+        },
+        {
+         "City": "Lincoln Park",
+         "Profit\/Quantity": 15.309899999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Caldwell",
+         "Profit\/Quantity": 15.026599999999998,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Laguna Niguel",
+         "Profit\/Quantity": 14.829800000000002,
+         "Discount": 0.0875
+        },
+        {
+         "City": "Vineland",
+         "Profit\/Quantity": 14.7371,
+         "Discount": 0.0375
+        },
+        {
+         "City": "Beaumont",
+         "Profit\/Quantity": 14.658399999999999,
+         "Discount": 0.4
+        },
+        {
+         "City": "Kirkwood",
+         "Profit\/Quantity": 14.6228,
+         "Discount": 0
+        },
+        {
+         "City": "Renton",
+         "Profit\/Quantity": 14.420399999999999,
+         "Discount": 0.1
+        },
+        {
+         "City": "Cedar Hill",
+         "Profit\/Quantity": 14.2772,
+         "Discount": 0.2
+        },
+        {
+         "City": "Apopka",
+         "Profit\/Quantity": 14.205799999999998,
+         "Discount": 0.41428571428571426
+        },
+        {
+         "City": "Laredo",
+         "Profit\/Quantity": 13.967200000000002,
+         "Discount": 0.3230769230769231
+        },
+        {
+         "City": "Helena",
+         "Profit\/Quantity": 13.681399999999998,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Orland Park",
+         "Profit\/Quantity": 13.598400000000002,
+         "Discount": 0.2
+        },
+        {
+         "City": "Buffalo Grove",
+         "Profit\/Quantity": 13.5984,
+         "Discount": 0.2
+        },
+        {
+         "City": "Rochester Hills",
+         "Profit\/Quantity": 13.5833,
+         "Discount": 0
+        },
+        {
+         "City": "West Allis",
+         "Profit\/Quantity": 13.489600000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Frankfort",
+         "Profit\/Quantity": 13.4512,
+         "Discount": 0.2
+        },
+        {
+         "City": "Sheboygan",
+         "Profit\/Quantity": 13.424199999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Las Cruces",
+         "Profit\/Quantity": 13.3022,
+         "Discount": 0
+        },
+        {
+         "City": "Medford",
+         "Profit\/Quantity": 13.0829,
+         "Discount": 0.2
+        },
+        {
+         "City": "San Clemente",
+         "Profit\/Quantity": 12.9317,
+         "Discount": 0.1
+        },
+        {
+         "City": "Owensboro",
+         "Profit\/Quantity": 12.7164,
+         "Discount": 0
+        },
+        {
+         "City": "Pico Rivera",
+         "Profit\/Quantity": 12.5474,
+         "Discount": 0
+        },
+        {
+         "City": "El Paso",
+         "Profit\/Quantity": 12.2575,
+         "Discount": 0.27647058823529413
+        },
+        {
+         "City": "Lodi",
+         "Profit\/Quantity": 12.165399999999998,
+         "Discount": 0
+        },
+        {
+         "City": "New Bedford",
+         "Profit\/Quantity": 12.063600000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Mcallen",
+         "Profit\/Quantity": 12.0184,
+         "Discount": 0.3764705882352941
+        },
+        {
+         "City": "Gulfport",
+         "Profit\/Quantity": 12.0049,
+         "Discount": 0
+        },
+        {
+         "City": "Malden",
+         "Profit\/Quantity": 11.5311,
+         "Discount": 0
+        },
+        {
+         "City": "Mentor",
+         "Profit\/Quantity": 11.524799999999997,
+         "Discount": 0.22
+        },
+        {
+         "City": "Longmont",
+         "Profit\/Quantity": 11.5182,
+         "Discount": 0.2
+        },
+        {
+         "City": "Whittier",
+         "Profit\/Quantity": 11.1192,
+         "Discount": 0.2
+        },
+        {
+         "City": "Murfreesboro",
+         "Profit\/Quantity": 11.0185,
+         "Discount": 0.33636363636363636
+        },
+        {
+         "City": "Sparks",
+         "Profit\/Quantity": 10.9516,
+         "Discount": 0
+        },
+        {
+         "City": "Draper",
+         "Profit\/Quantity": 10.2405,
+         "Discount": 0
+        },
+        {
+         "City": "Vacaville",
+         "Profit\/Quantity": 10.004800000000001,
+         "Discount": 0
+        },
+        {
+         "City": "Santa Maria",
+         "Profit\/Quantity": 10.0048,
+         "Discount": 0
+        },
+        {
+         "City": "Kenner",
+         "Profit\/Quantity": 9.8988,
+         "Discount": 0
+        },
+        {
+         "City": "Escondido",
+         "Profit\/Quantity": 9.751,
+         "Discount": 0.06666666666666667
+        },
+        {
+         "City": "Coppell",
+         "Profit\/Quantity": 9.685099999999998,
+         "Discount": 0.2
+        },
+        {
+         "City": "Plantation",
+         "Profit\/Quantity": 9.626200000000003,
+         "Discount": 0.2909090909090909
+        },
+        {
+         "City": "Norwich",
+         "Profit\/Quantity": 9.6118,
+         "Discount": 0
+        },
+        {
+         "City": "Thomasville",
+         "Profit\/Quantity": 9.6047,
+         "Discount": 0.36666666666666664
+        },
+        {
+         "City": "Delray Beach",
+         "Profit\/Quantity": 9.3726,
+         "Discount": 0.2
+        },
+        {
+         "City": "Miramar",
+         "Profit\/Quantity": 9.245199999999999,
+         "Discount": 0.2625
+        },
+        {
+         "City": "Pompano Beach",
+         "Profit\/Quantity": 9.0725,
+         "Discount": 0.2
+        },
+        {
+         "City": "Avondale",
+         "Profit\/Quantity": 8.973700000000001,
+         "Discount": 0.2
+        },
+        {
+         "City": "Pasadena",
+         "Profit\/Quantity": 8.892399999999995,
+         "Discount": 0.17073170731707318
+        },
+        {
+         "City": "West Palm Beach",
+         "Profit\/Quantity": 8.845400000000001,
+         "Discount": 0.2
+        },
+        {
+         "City": "Sterling Heights",
+         "Profit\/Quantity": 8.6964,
+         "Discount": 0
+        },
+        {
+         "City": "Bedford",
+         "Profit\/Quantity": 8.521199999999999,
+         "Discount": 0.32
+        },
+        {
+         "City": "Coral Springs",
+         "Profit\/Quantity": 8.4933,
+         "Discount": 0.2
+        },
+        {
+         "City": "Royal Oak",
+         "Profit\/Quantity": 8.4816,
+         "Discount": 0
+        },
+        {
+         "City": "Redding",
+         "Profit\/Quantity": 8.3394,
+         "Discount": 0.2
+        },
+        {
+         "City": "Shelton",
+         "Profit\/Quantity": 8.203899999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Bozeman",
+         "Profit\/Quantity": 8.0821,
+         "Discount": 0
+        },
+        {
+         "City": "Palm Coast",
+         "Profit\/Quantity": 7.9067,
+         "Discount": 0.4
+        },
+        {
+         "City": "Harlingen",
+         "Profit\/Quantity": 7.6556999999999995,
+         "Discount": 0.2
+        },
+        {
+         "City": "Coral Gables",
+         "Profit\/Quantity": 7.4526,
+         "Discount": 0.2
+        },
+        {
+         "City": "Bayonne",
+         "Profit\/Quantity": 7.3187,
+         "Discount": 0
+        },
+        {
+         "City": "Linden",
+         "Profit\/Quantity": 7.086399999999999,
+         "Discount": 0
+        },
+        {
+         "City": "Charlottesville",
+         "Profit\/Quantity": 6.523199999999999,
+         "Discount": 0
+        },
+        {
+         "City": "The Colony",
+         "Profit\/Quantity": 6.3938,
+         "Discount": 0.2
+        },
+        {
+         "City": "Woodstock",
+         "Profit\/Quantity": 5.997299999999999,
+         "Discount": 0.26
+        },
+        {
+         "City": "San Mateo",
+         "Profit\/Quantity": 5.8891,
+         "Discount": 0
+        },
+        {
+         "City": "Atlantic City",
+         "Profit\/Quantity": 5.84,
+         "Discount": 0
+        },
+        {
+         "City": "New Castle",
+         "Profit\/Quantity": 5.6897,
+         "Discount": 0
+        },
+        {
+         "City": "Texas City",
+         "Profit\/Quantity": 5.660999999999998,
+         "Discount": 0.3
+        },
+        {
+         "City": "Hoover",
+         "Profit\/Quantity": 5.4807,
+         "Discount": 0
+        },
+        {
+         "City": "Sierra Vista",
+         "Profit\/Quantity": 5.4553,
+         "Discount": 0.2
+        },
+        {
+         "City": "New Brunswick",
+         "Profit\/Quantity": 5.3667,
+         "Discount": 0
+        },
+        {
+         "City": "Elkhart",
+         "Profit\/Quantity": 4.9813,
+         "Discount": 0
+        },
+        {
+         "City": "Danbury",
+         "Profit\/Quantity": 4.9428,
+         "Discount": 0
+        },
+        {
+         "City": "Melbourne",
+         "Profit\/Quantity": 4.7808,
+         "Discount": 0.2
+        },
+        {
+         "City": "Bullhead City",
+         "Profit\/Quantity": 4.7476,
+         "Discount": 0.2
+        },
+        {
+         "City": "Greeley",
+         "Profit\/Quantity": 4.6218,
+         "Discount": 0.2
+        },
+        {
+         "City": "Glenview",
+         "Profit\/Quantity": 4.6193,
+         "Discount": 0.2
+        },
+        {
+         "City": "Englewood",
+         "Profit\/Quantity": 4.5849,
+         "Discount": 0.2
+        },
+        {
+         "City": "La Quinta",
+         "Profit\/Quantity": 4.5162,
+         "Discount": 0
+        },
+        {
+         "City": "Iowa City",
+         "Profit\/Quantity": 4.4955,
+         "Discount": 0
+        },
+        {
+         "City": "Jefferson City",
+         "Profit\/Quantity": 4.331,
+         "Discount": 0
+        },
+        {
+         "City": "Saint Paul",
+         "Profit\/Quantity": 4.224,
+         "Discount": 0
+        },
+        {
+         "City": "Grand Island",
+         "Profit\/Quantity": 3.99,
+         "Discount": 0
+        },
+        {
+         "City": "North Charleston",
+         "Profit\/Quantity": 3.9368,
+         "Discount": 0
+        },
+        {
+         "City": "Loveland",
+         "Profit\/Quantity": 3.9318,
+         "Discount": 0.325
+        },
+        {
+         "City": "Haltom City",
+         "Profit\/Quantity": 3.5888,
+         "Discount": 0.2
+        },
+        {
+         "City": "Lake Elsinore",
+         "Profit\/Quantity": 3.5490000000000004,
+         "Discount": 0.2
+        },
+        {
+         "City": "Hagerstown",
+         "Profit\/Quantity": 3.4309999999999996,
+         "Discount": 0
+        },
+        {
+         "City": "Palatine",
+         "Profit\/Quantity": 3.3232,
+         "Discount": 0.2
+        },
+        {
+         "City": "Portage",
+         "Profit\/Quantity": 3.256,
+         "Discount": 0
+        },
+        {
+         "City": "Clovis",
+         "Profit\/Quantity": 3.2064000000000004,
+         "Discount": 0.1
+        },
+        {
+         "City": "Hillsboro",
+         "Profit\/Quantity": 3.1977,
+         "Discount": 0.325
+        },
+        {
+         "City": "Antioch",
+         "Profit\/Quantity": 3.1104000000000003,
+         "Discount": 0
+        },
+        {
+         "City": "Davis",
+         "Profit\/Quantity": 3.1104,
+         "Discount": 0
+        },
+        {
+         "City": "Niagara Falls",
+         "Profit\/Quantity": 2.9754,
+         "Discount": 0.1
+        },
+        {
+         "City": "Waterloo",
+         "Profit\/Quantity": 2.9562,
+         "Discount": 0
+        },
+        {
+         "City": "Port Orange",
+         "Profit\/Quantity": 2.934,
+         "Discount": 0.2
+        },
+        {
+         "City": "Waukesha",
+         "Profit\/Quantity": 2.834,
+         "Discount": 0
+        },
+        {
+         "City": "Nashua",
+         "Profit\/Quantity": 2.7977,
+         "Discount": 0
+        },
+        {
+         "City": "Peoria",
+         "Profit\/Quantity": 2.6960999999999924,
+         "Discount": 0.37142857142857144
+        },
+        {
+         "City": "Norfolk",
+         "Profit\/Quantity": 2.6725999999999996,
+         "Discount": 0
+        },
+        {
+         "City": "Yucaipa",
+         "Profit\/Quantity": 2.6416,
+         "Discount": 0
+        },
+        {
+         "City": "Corpus Christi",
+         "Profit\/Quantity": 2.540800000000001,
+         "Discount": 0.3333333333333333
+        },
+        {
+         "City": "Santa Fe",
+         "Profit\/Quantity": 2.4928,
+         "Discount": 0
+        },
+        {
+         "City": "Redwood City",
+         "Profit\/Quantity": 2.3571,
+         "Discount": 0.2
+        },
+        {
+         "City": "Hendersonville",
+         "Profit\/Quantity": 2.3283,
+         "Discount": 0.44999999999999996
+        },
+        {
+         "City": "Aberdeen",
+         "Profit\/Quantity": 2.21,
+         "Discount": 0
+        },
+        {
+         "City": "Rogers",
+         "Profit\/Quantity": 2.0654,
+         "Discount": 0
+        },
+        {
+         "City": "Montebello",
+         "Profit\/Quantity": 1.9516,
+         "Discount": 0
+        },
+        {
+         "City": "Baytown",
+         "Profit\/Quantity": 1.8144,
+         "Discount": 0.2
+        },
+        {
+         "City": "Hickory",
+         "Profit\/Quantity": 1.7618999999999998,
+         "Discount": 0.44999999999999996
+        },
+        {
+         "City": "Chapel Hill",
+         "Profit\/Quantity": 1.5768000000000002,
+         "Discount": 0.2
+        },
+        {
+         "City": "Grapevine",
+         "Profit\/Quantity": 1.4201000000000001,
+         "Discount": 0.2
+        },
+        {
+         "City": "Billings",
+         "Profit\/Quantity": 1.3468,
+         "Discount": 0.2
+        },
+        {
+         "City": "Rock Hill",
+         "Profit\/Quantity": 1.264,
+         "Discount": 0
+        },
+        {
+         "City": "Bartlett",
+         "Profit\/Quantity": 1.251,
+         "Discount": 0.2
+        },
+        {
+         "City": "Bridgeton",
+         "Profit\/Quantity": 1.1471999999999998,
+         "Discount": 0
+        },
+        {
+         "City": "Parma",
+         "Profit\/Quantity": 1.0973999999999986,
+         "Discount": 0.24444444444444444
+        },
+        {
+         "City": "Bolingbrook",
+         "Profit\/Quantity": 1.0706000000000007,
+         "Discount": 0.4
+        },
+        {
+         "City": "Keller",
+         "Profit\/Quantity": 1.05,
+         "Discount": 0.2
+        },
+        {
+         "City": "Carol Stream",
+         "Profit\/Quantity": 1.0325999999999997,
+         "Discount": 0.24
+        },
+        {
+         "City": "North Miami",
+         "Profit\/Quantity": 1.0266000000000002,
+         "Discount": 0.2
+        },
+        {
+         "City": "Goldsboro",
+         "Profit\/Quantity": 1.0191999999999999,
+         "Discount": 0.2
+        },
+        {
+         "City": "Mason",
+         "Profit\/Quantity": 0.8728000000000007,
+         "Discount": 0.5333333333333333
+        },
+        {
+         "City": "Marysville",
+         "Profit\/Quantity": 0.8716,
+         "Discount": 0
+        },
+        {
+         "City": "Edinburg",
+         "Profit\/Quantity": 0.8012000000000001,
+         "Discount": 0.4
+        },
+        {
+         "City": "Margate",
+         "Profit\/Quantity": 0.7776000000000001,
+         "Discount": 0.2
+        },
+        {
+         "City": "Conroe",
+         "Profit\/Quantity": 0.7755,
+         "Discount": 0.2
+        },
+        {
+         "City": "Garland",
+         "Profit\/Quantity": 0.7385999999999999,
+         "Discount": 0.3333333333333333
+        },
+        {
+         "City": "Springdale",
+         "Profit\/Quantity": 0.7095,
+         "Discount": 0
+        },
+        {
+         "City": "San Luis Obispo",
+         "Profit\/Quantity": 0.5973,
+         "Discount": 0
+        },
+        {
+         "City": "Layton",
+         "Profit\/Quantity": 0.5828,
+         "Discount": 0
+        },
+        {
+         "City": "Port Saint Lucie",
+         "Profit\/Quantity": 0.2610999999999999,
+         "Discount": 0.36666666666666664
+        },
+        {
+         "City": "Arlington Heights",
+         "Profit\/Quantity": 0.20579999999999998,
+         "Discount": 0.2
+        },
+        {
+         "City": "Jupiter",
+         "Profit\/Quantity": 0.1548,
+         "Discount": 0.2
+        },
+        {
+         "City": "Reading",
+         "Profit\/Quantity": -0.4738000000000002,
+         "Discount": 0.2
+        },
+        {
+         "City": "Pensacola",
+         "Profit\/Quantity": -0.492,
+         "Discount": 0.7
+        },
+        {
+         "City": "Fort Collins",
+         "Profit\/Quantity": -0.5874000000000001,
+         "Discount": 0.2833333333333333
+        },
+        {
+         "City": "Mesquite",
+         "Profit\/Quantity": -0.6232,
+         "Discount": 0.45
+        },
+        {
+         "City": "Morgan Hill",
+         "Profit\/Quantity": -0.6340000000000003,
+         "Discount": 0.0875
+        },
+        {
+         "City": "Ormond Beach",
+         "Profit\/Quantity": -0.6552,
+         "Discount": 0.7
+        },
+        {
+         "City": "Altoona",
+         "Profit\/Quantity": -0.7619,
+         "Discount": 0.44999999999999996
+        },
+        {
+         "City": "Tinley Park",
+         "Profit\/Quantity": -1.2736,
+         "Discount": 0.6
+        },
+        {
+         "City": "League City",
+         "Profit\/Quantity": -1.3293000000000004,
+         "Discount": 0.22
+        },
+        {
+         "City": "Missouri City",
+         "Profit\/Quantity": -1.365,
+         "Discount": 0.8
+        },
+        {
+         "City": "Elyria",
+         "Profit\/Quantity": -1.3984,
+         "Discount": 0.7
+        },
+        {
+         "City": "Grove City",
+         "Profit\/Quantity": -1.3984,
+         "Discount": 0.7
+        },
+        {
+         "City": "Skokie",
+         "Profit\/Quantity": -1.437300000000001,
+         "Discount": 0.4
+        },
+        {
+         "City": "Deer Park",
+         "Profit\/Quantity": -1.7309999999999999,
+         "Discount": 0.8
+        },
+        {
+         "City": "Abilene",
+         "Profit\/Quantity": -1.8792,
+         "Discount": 0.8
+        },
+        {
+         "City": "Sanford",
+         "Profit\/Quantity": -2.563,
+         "Discount": 0.44999999999999996
+        },
+        {
+         "City": "Frisco",
+         "Profit\/Quantity": -3.2468,
+         "Discount": 0.4
+        },
+        {
+         "City": "Modesto",
+         "Profit\/Quantity": -3.2896,
+         "Discount": 0.13333333333333333
+        },
+        {
+         "City": "Cuyahoga Falls",
+         "Profit\/Quantity": -3.3712,
+         "Discount": 0.5333333333333333
+        },
+        {
+         "City": "Pharr",
+         "Profit\/Quantity": -3.3912,
+         "Discount": 0.6
+        },
+        {
+         "City": "Hamilton",
+         "Profit\/Quantity": -4.1669,
+         "Discount": 0.2
+        },
+        {
+         "City": "San Marcos",
+         "Profit\/Quantity": -4.6629,
+         "Discount": 0.3
+        },
+        {
+         "City": "Boca Raton",
+         "Profit\/Quantity": -4.666799999999999,
+         "Discount": 0.36666666666666664
+        },
+        {
+         "City": "Tigard",
+         "Profit\/Quantity": -5.363500000000001,
+         "Discount": 0.2714285714285714
+        },
+        {
+         "City": "Chester",
+         "Profit\/Quantity": -6.489599999999992,
+         "Discount": 0.32666666666666666
+        },
+        {
+         "City": "Bristol",
+         "Profit\/Quantity": -6.617899999999999,
+         "Discount": 0.21538461538461537
+        },
+        {
+         "City": "Portland",
+         "Profit\/Quantity": -7.447999999999999,
+         "Discount": 0.29523809523809524
+        },
+        {
+         "City": "Pueblo",
+         "Profit\/Quantity": -8.0049,
+         "Discount": 0.4857142857142857
+        },
+        {
+         "City": "Eugene",
+         "Profit\/Quantity": -8.1061,
+         "Discount": 0.2
+        },
+        {
+         "City": "San Angelo",
+         "Profit\/Quantity": -8.5195,
+         "Discount": 0.3
+        },
+        {
+         "City": "Wilson",
+         "Profit\/Quantity": -8.812600000000002,
+         "Discount": 0.36666666666666664
+        },
+        {
+         "City": "Colorado Springs",
+         "Profit\/Quantity": -9.029099999999998,
+         "Discount": 0.3
+        },
+        {
+         "City": "Ontario",
+         "Profit\/Quantity": -9.2274,
+         "Discount": 0.2
+        },
+        {
+         "City": "York",
+         "Profit\/Quantity": -9.6035,
+         "Discount": 0.35
+        },
+        {
+         "City": "Redmond",
+         "Profit\/Quantity": -10.653200000000002,
+         "Discount": 0.2818181818181818
+        },
+        {
+         "City": "Commerce City",
+         "Profit\/Quantity": -10.9764,
+         "Discount": 0.2
+        },
+        {
+         "City": "Parker",
+         "Profit\/Quantity": -11.4537,
+         "Discount": 0.44999999999999996
+        },
+        {
+         "City": "Scottsdale",
+         "Profit\/Quantity": -13.4917,
+         "Discount": 0.33636363636363636
+        },
+        {
+         "City": "Tucson",
+         "Profit\/Quantity": -13.809800000000003,
+         "Discount": 0.30344827586206896
+        },
+        {
+         "City": "Hialeah",
+         "Profit\/Quantity": -14.342399999999994,
+         "Discount": 0.2888888888888889
+        },
+        {
+         "City": "Mansfield",
+         "Profit\/Quantity": -14.4469,
+         "Discount": 0.25
+        },
+        {
+         "City": "Allen",
+         "Profit\/Quantity": -17.8348,
+         "Discount": 0.375
+        },
+        {
+         "City": "Austin",
+         "Profit\/Quantity": -18.974499999999995,
+         "Discount": 0.34594594594594597
+        },
+        {
+         "City": "Evanston",
+         "Profit\/Quantity": -24.1022,
+         "Discount": 0.23333333333333334
+        },
+        {
+         "City": "Naperville",
+         "Profit\/Quantity": -24.2154,
+         "Discount": 0.5166666666666667
+        },
+        {
+         "City": "Elmhurst",
+         "Profit\/Quantity": -25.162599999999998,
+         "Discount": 0.23333333333333334
+        },
+        {
+         "City": "College Station",
+         "Profit\/Quantity": -25.800800000000002,
+         "Discount": 0.43333333333333335
+        },
+        {
+         "City": "Normal",
+         "Profit\/Quantity": -27.5058,
+         "Discount": 0.3
+        },
+        {
+         "City": "Highland Park",
+         "Profit\/Quantity": -28.9763,
+         "Discount": 0.43333333333333335
+        },
+        {
+         "City": "Plano",
+         "Profit\/Quantity": -29.690800000000003,
+         "Discount": 0.275
+        },
+        {
+         "City": "Marion",
+         "Profit\/Quantity": -29.877799999999997,
+         "Discount": 0.1631578947368421
+        },
+        {
+         "City": "Odessa",
+         "Profit\/Quantity": -33.5738,
+         "Discount": 0.36
+        },
+        {
+         "City": "Fort Lauderdale",
+         "Profit\/Quantity": -34.342600000000004,
+         "Discount": 0.3041666666666667
+        },
+        {
+         "City": "Grand Prairie",
+         "Profit\/Quantity": -35.677099999999996,
+         "Discount": 0.36923076923076925
+        },
+        {
+         "City": "Bryan",
+         "Profit\/Quantity": -37.8278,
+         "Discount": 0.5800000000000001
+        },
+        {
+         "City": "Greensboro",
+         "Profit\/Quantity": -52.30059999999999,
+         "Discount": 0.3416666666666667
+        },
+        {
+         "City": "Tamarac",
+         "Profit\/Quantity": -55.426500000000004,
+         "Discount": 0.44999999999999996
+        },
+        {
+         "City": "Des Plaines",
+         "Profit\/Quantity": -55.606,
+         "Discount": 0.43333333333333335
+        },
+        {
+         "City": "Akron",
+         "Profit\/Quantity": -57.147299999999994,
+         "Discount": 0.3611111111111111
+        },
+        {
+         "City": "Amarillo",
+         "Profit\/Quantity": -57.6287,
+         "Discount": 0.26666666666666666
+        },
+        {
+         "City": "Allentown",
+         "Profit\/Quantity": -58.9198,
+         "Discount": 0.2714285714285714
+        },
+        {
+         "City": "Miami",
+         "Profit\/Quantity": -59.51780000000001,
+         "Discount": 0.3057692307692308
+        },
+        {
+         "City": "Medina",
+         "Profit\/Quantity": -68.485,
+         "Discount": 0.4
+        },
+        {
+         "City": "Daytona Beach",
+         "Profit\/Quantity": -69.1329,
+         "Discount": 0.2625
+        },
+        {
+         "City": "Round Rock",
+         "Profit\/Quantity": -77.53309999999998,
+         "Discount": 0.2866666666666667
+        },
+        {
+         "City": "Dublin",
+         "Profit\/Quantity": -84.3433,
+         "Discount": 0.33076923076923076
+        },
+        {
+         "City": "Yuma",
+         "Profit\/Quantity": -94.72590000000001,
+         "Discount": 0.44999999999999996
+        },
+        {
+         "City": "Mesa",
+         "Profit\/Quantity": -97.72879999999996,
+         "Discount": 0.32916666666666666
+        },
+        {
+         "City": "Rockford",
+         "Profit\/Quantity": -98.6404,
+         "Discount": 0.5125000000000001
+        },
+        {
+         "City": "Tyler",
+         "Profit\/Quantity": -107.70380000000002,
+         "Discount": 0.6000000000000001
+        },
+        {
+         "City": "Oswego",
+         "Profit\/Quantity": -108.0932,
+         "Discount": 0.6000000000000001
+        },
+        {
+         "City": "Waco",
+         "Profit\/Quantity": -108.1121,
+         "Discount": 0.56
+        },
+        {
+         "City": "Carrollton",
+         "Profit\/Quantity": -118.528,
+         "Discount": 0.4
+        },
+        {
+         "City": "Clarksville",
+         "Profit\/Quantity": -147.8356,
+         "Discount": 0.2714285714285714
+        },
+        {
+         "City": "Irving",
+         "Profit\/Quantity": -152.1953,
+         "Discount": 0.275
+        },
+        {
+         "City": "Aurora",
+         "Profit\/Quantity": -165.51520000000002,
+         "Discount": 0.32857142857142857
+        },
+        {
+         "City": "Bethlehem",
+         "Profit\/Quantity": -171.1236,
+         "Discount": 0.425
+        },
+        {
+         "City": "Memphis",
+         "Profit\/Quantity": -193.7614,
+         "Discount": 0.27692307692307694
+        },
+        {
+         "City": "Knoxville",
+         "Profit\/Quantity": -198.0039,
+         "Discount": 0.25833333333333336
+        },
+        {
+         "City": "Nashville",
+         "Profit\/Quantity": -243.3974,
+         "Discount": 0.2714285714285714
+        },
+        {
+         "City": "Greenville",
+         "Profit\/Quantity": -275.2835,
+         "Discount": 0.3
+        },
+        {
+         "City": "Cleveland",
+         "Profit\/Quantity": -275.38899999999995,
+         "Discount": 0.3
+        },
+        {
+         "City": "Phoenix",
+         "Profit\/Quantity": -335.89240000000007,
+         "Discount": 0.32982456140350874
+        },
+        {
+         "City": "Dallas",
+         "Profit\/Quantity": -407.70840000000004,
+         "Discount": 0.32522388059701496
+        },
+        {
+         "City": "San Antonio",
+         "Profit\/Quantity": -706.4947000000001,
+         "Discount": 0.3423076923076923
+        },
+        {
+         "City": "Chicago",
+         "Profit\/Quantity": -744.4000000000001,
+         "Discount": 0.34721189591078067
+        },
+        {
+         "City": "Burlington",
+         "Profit\/Quantity": -801.6266999999999,
+         "Discount": 0.11739130434782609
+        },
+        {
+         "City": "Lancaster",
+         "Profit\/Quantity": -1554.3079999999998,
+         "Discount": 0.30930232558139537
+        },
+        {
+         "City": "Houston",
+         "Profit\/Quantity": -1769.489000000001,
+         "Discount": 0.36713450292397665
+        },
+        {
+         "City": "Philadelphia",
+         "Profit\/Quantity": -2350.2202,
+         "Discount": 0.3163135593220339
+        }
+       ],
+       "avgDiscountPerYearData": [
+        {
+         "Order Date (Tahun)": "2017",
+         "Discount": 0.1459897828863346
+        },
+        {
+         "Order Date (Tahun)": "2015",
+         "Discount": 0.14485032978183662
+        },
+        {
+         "Order Date (Tahun)": "2014",
+         "Discount": 0.14326497571505667
+        },
+        {
+         "Order Date (Tahun)": "2016",
+         "Discount": 0.14231531159719357
+        }
+       ],
+    "profitMarginData": [
+            {
+             "Category": "Technology",
+             "Order Date (Tahun)": "2015",
+             "Kolom Baru": 0.21045414630065962
+            },
+            {
+             "Category": "Office Supplies",
+             "Order Date (Tahun)": "2015",
+             "Kolom Baru": 0.20836475545739808
+            },
+            {
+             "Category": "Technology",
+             "Order Date (Tahun)": "2017",
+             "Kolom Baru": 0.20441704869944208
+            },
+            {
+             "Category": "Technology",
+             "Order Date (Tahun)": "2016",
+             "Kolom Baru": 0.1970922851064963
+            },
+            {
+             "Category": "Office Supplies",
+             "Order Date (Tahun)": "2016",
+             "Kolom Baru": 0.19035400358971427
+            },
+            {
+             "Category": "Office Supplies",
+             "Order Date (Tahun)": "2017",
+             "Kolom Baru": 0.16692024713649922
+            },
+            {
+             "Category": "Office Supplies",
+             "Order Date (Tahun)": "2014",
+             "Kolom Baru": 0.15868276558780023
+            },
+            {
+             "Category": "Technology",
+             "Order Date (Tahun)": "2014",
+             "Kolom Baru": 0.15575171083243278
+            },
+            {
+             "Category": "Furniture",
+             "Order Date (Tahun)": "2016",
+             "Kolom Baru": 0.06838182030041147
+            },
+            {
+             "Category": "Furniture",
+             "Order Date (Tahun)": "2014",
+             "Kolom Baru": 0.0549435158016428
+            },
+            {
+             "Category": "Furniture",
+             "Order Date (Tahun)": "2015",
+             "Kolom Baru": 0.042063114472687964
+            },
+            {
+             "Category": "Furniture",
+             "Order Date (Tahun)": "2017",
+             "Kolom Baru": 0.03511468897399237
+            }
+    ],
+    "totalCustomerSegmentData" : [
+        { "Tahun": "2017", "Segment": "Consumer", "Customer ID": 356 },
+        { "Tahun": "2017", "Segment": "Corporate", "Customer ID": 203 },
+        { "Tahun": "2017", "Segment": "Home Office", "Customer ID": 128 },
+        { "Tahun": "2016", "Segment": "Home Office", "Customer ID": 110 },
+        { "Tahun": "2016", "Segment": "Consumer", "Customer ID": 329 },
+        { "Tahun": "2016", "Segment": "Corporate", "Customer ID": 193 },
+        { "Tahun": "2015", "Segment": "Home Office", "Customer ID": 110 },
+        { "Tahun": "2015", "Segment": "Corporate", "Customer ID": 163 },
+        { "Tahun": "2015", "Segment": "Consumer", "Customer ID": 292 },
+        { "Tahun": "2014", "Segment": "Home Office", "Customer ID": 103 },
+        { "Tahun": "2014", "Segment": "Corporate", "Customer ID": 177 },
+        { "Tahun": "2014", "Segment": "Consumer", "Customer ID": 299 }
+    ]
+}
+  
